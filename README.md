@@ -18,11 +18,11 @@ with what's being served, where, and how many calories it has.
 
 ```mermaid
 flowchart LR
-    A[⏰ Daily trigger] --> B[🏫 Fetch dining halls]
-    B --> C[🕐 Fetch meal periods]
-    C --> D[📋 Fetch menus]
-    D --> E[🔍 Match favorites]
-    E --> F[📧 Send emails]
+    A["⏰ Daily trigger"] --> B["🏫 Fetch dining halls"]
+    B --> C["🕐 Fetch meal periods"]
+    C --> D["📋 Fetch menus"]
+    D --> E["🔍 Match favorites"]
+    E --> F["📧 Send emails"]
 ```
 
 1. **Fetch locations:** get the list of dining halls and their IDs
@@ -43,4 +43,47 @@ through a REST API. The endpoints were identified by inspecting the
 dining site's network requests:
 
 | Endpoint | Purpose |
-| --- |
+| --- | --- |
+| `GET /locations/{locationId}/periods/?date=YYYY-MM-DD` | Meal periods and their IDs for a given day |
+| `GET /locations/{locationId}/menu?date=YYYY-MM-DD&period={periodId}` | Full menu for one meal |
+
+Each menu item includes its name, description, portion size, calories,
+a full nutrient breakdown, and dietary tags (Vegan, Vegetarian,
+Avoiding Gluten, and allergens).
+
+Period IDs are not hardcoded, since they may change. They are fetched
+fresh on each run.
+
+## 🛠️ Tech stack
+
+- 🐍 **Python**: core logic
+- 🌐 **requests**: HTTP calls to the menu API
+- 🗄️ *Planned:* SQLite for users, favorites, and menu history
+- ⏰ *Planned:* GitHub Actions for daily scheduled runs
+- 📧 *Planned:* email delivery service for notifications
+
+## 🗺️ Roadmap
+
+- [ ] Fetch and print one day's menu for one dining hall
+- [ ] Support all dining halls
+- [ ] Match menu items against a hardcoded favorites list
+- [ ] Send email notifications
+- [ ] Run automatically every morning
+- [ ] Save daily menus to build a menu history
+- [ ] Sign-up form for users to choose favorites
+- [ ] Dietary filters (vegetarian, gluten-free, allergens)
+- [ ] Support other schools that use Dine on Campus
+
+## 📝 Design notes
+
+- **Polite by design:** a few requests once per day, no constant polling
+- **School-agnostic:** school and location IDs live in one config spot,
+  so other Dine on Campus schools can be added later
+- **Secrets stay local:** credentials live in a `.env` file that is
+  never committed
+
+## ⚠️ Disclaimer
+
+Mealert is an independent student project. It is not affiliated with
+or endorsed by Colgate University, Colgate Dining Services, or
+Dine on Campus.
