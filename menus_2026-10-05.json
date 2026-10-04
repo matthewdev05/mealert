@@ -1,0 +1,5311 @@
+[
+  {
+    "date": "2026-10-05",
+    "location": "Frank Dining Hall",
+    "period": "Breakfast",
+    "dishes": [
+      {
+        "id": "6ac1eea489b03e7af7f1f518",
+        "name": "Chopped Spinach",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 5,
+        "portion": "1 ounce"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f546",
+        "name": "Diced Smoked Ham",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Pork"
+        ],
+        "calories": 30,
+        "portion": "2 tbsp"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f4d9",
+        "name": "Oatmeal",
+        "station": "Bakery",
+        "description": "oatmeal",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 70,
+        "portion": "1 ladle-4oz"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f49a",
+        "name": "Meatless Vegetarian Sausage Patty",
+        "station": "Breakfast",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Gluten",
+          "Milk",
+          "MSG",
+          "Mustard",
+          "Onion",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 70,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f4c7",
+        "name": "Biscuits and Country Gravy",
+        "station": "Breakfast",
+        "description": "Flaky, buttery buttermilk biscuits with a creamy gravy",
+        "diet_tags": [
+          "Vegetarian",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "MSG",
+          "Onion",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 330,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f4e8",
+        "name": "Omelet Bar",
+        "station": "Breakfast",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 plate"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f536",
+        "name": "Diced Onions",
+        "station": "Breakfast",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Onion"
+        ],
+        "calories": 0,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f566",
+        "name": "Chopped Tomatoes",
+        "station": "Breakfast",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Tomato"
+        ],
+        "calories": 0,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f4a9",
+        "name": "Pork Sausage Patty",
+        "station": "Breakfast",
+        "description": "",
+        "diet_tags": [
+          "Avoiding Gluten",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Celery",
+          "Mustard",
+          "Pork"
+        ],
+        "calories": 360,
+        "portion": "2 each"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f527",
+        "name": "Sliced Mushrooms",
+        "station": "Breakfast",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten",
+          "How Good Friendly"
+        ],
+        "allergens": [
+          "Mushroom"
+        ],
+        "calories": 0,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f48a",
+        "name": "Steamed Broccoli",
+        "station": "Breakfast",
+        "description": "Freshly steamed seasoned broccoli",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten",
+          "How Good Friendly"
+        ],
+        "allergens": [],
+        "calories": 30,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f557",
+        "name": "Chopped Green Bell Pepper",
+        "station": "Breakfast",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f4b9",
+        "name": "Cheese Grits",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "How Good Friendly"
+        ],
+        "allergens": [
+          "Gluten",
+          "Milk"
+        ],
+        "calories": 90,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f508",
+        "name": "Eggs",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Egg"
+        ],
+        "calories": 130,
+        "portion": "3 floz"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f47a",
+        "name": "Scrambled Eggs",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Egg"
+        ],
+        "calories": 210,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f586",
+        "name": "Diced Turkey Breast",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Poultry"
+        ],
+        "calories": 30,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f4f8",
+        "name": "Egg Whites",
+        "station": "Omelet",
+        "description": "two egg whites made-to-order",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Egg"
+        ],
+        "calories": 45,
+        "portion": "3 floz"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f46a",
+        "name": "Crispy Hashbrowns",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Onion"
+        ],
+        "calories": 100,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f45b",
+        "name": "Lemon Poppy Seed Quick Bread",
+        "station": "Omelet",
+        "description": "Fresh Baked Lemon Poppy Seed Quick Bread",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Sulphites",
+          "Wheat"
+        ],
+        "calories": 230,
+        "portion": "1 slice"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f576",
+        "name": "Shredded Sharp Cheddar Cheese",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 110,
+        "portion": "2 tbsp"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-05",
+    "location": "Frank Dining Hall",
+    "period": "Lunch",
+    "dishes": [
+      {
+        "id": "6ac1ee4e89b03e7af7efa629",
+        "name": "Extra Virgin Olive Oil",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 480,
+        "portion": "2 floz"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa5ea",
+        "name": "Dried Cranberries",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 30,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa5cc",
+        "name": "Chopped Hard Boiled Eggs",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Egg"
+        ],
+        "calories": 50,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb143",
+        "name": "Marinara Sauce",
+        "station": "Bakery",
+        "description": "Garlic Marinara Sauce",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Garlic",
+          "Onion",
+          "Tomato"
+        ],
+        "calories": 30,
+        "portion": "3 floz"
+      },
+      {
+        "id": "6ac1ee4389b03e7af7ef5c6d",
+        "name": "Potato Wedges",
+        "station": "Bakery",
+        "description": "red potatoes, paprika, garlic, pepper, herbs",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Garlic",
+          "Onion"
+        ],
+        "calories": 80,
+        "portion": "3 ounce"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb154",
+        "name": "Sweet Yeast Dinner Roll",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 100,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb174",
+        "name": "Pepperoni Pizza",
+        "station": "Daily Chef Soups",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Beef",
+          "Celery",
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Mustard",
+          "Pork",
+          "Soy",
+          "Sulphites",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 210,
+        "portion": "1 slice"
+      },
+      {
+        "id": "6ac1ee4d89b03e7af7efa538",
+        "name": "Greek Garbanzo Beans",
+        "station": "Daily Chef Soups",
+        "description": "Garbanzo beans coated in a greek seasoning",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 80,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa656",
+        "name": "Greek Feta Dressing",
+        "station": "Daily Chef Soups",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Milk",
+          "Mustard"
+        ],
+        "calories": 100,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa608",
+        "name": "Crumbled Feta Cheese",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 25,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa5da",
+        "name": "Chow Mein Noodles",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 15,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1ee4589b03e7af7ef7207",
+        "name": "Key Lime Cupcakes",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg",
+          "Gluten",
+          "Milk",
+          "MSG",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 270,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa647",
+        "name": "Creamy Caesar Dressing",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 110,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa597",
+        "name": "Baby Spinach",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten",
+          "How Good Friendly"
+        ],
+        "allergens": [],
+        "calories": 5,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1ee4389b03e7af7ef5c40",
+        "name": "Barley",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Gluten",
+          "Onion",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 140,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee4589b03e7af7ef7225",
+        "name": "Double Chocolate Chip Cookies",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Peanuts",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 120,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb123",
+        "name": "Linguine",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 110,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb194",
+        "name": "Grated Parmesan Cheese",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 10,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb164",
+        "name": "Cheese Pizza",
+        "station": "Daily Grill Condiment",
+        "description": "Traditional pizza with just pizza sauce and mozzarella cheese",
+        "diet_tags": [
+          "Vegetarian",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Sulphites",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 190,
+        "portion": "1 slice"
+      },
+      {
+        "id": "6ac1ee4389b03e7af7ef5c4e",
+        "name": "White Rice",
+        "station": "Daily Grill Condiment",
+        "description": "White Rice Cooked with Canola Oil and Salt",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten",
+          "How Good Friendly"
+        ],
+        "allergens": [],
+        "calories": 230,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa619",
+        "name": "Sliced Red Onion",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Onion"
+        ],
+        "calories": 0,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa5bc",
+        "name": "Cherry Tomatoes",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Tomato"
+        ],
+        "calories": 5,
+        "portion": "1 ounce"
+      },
+      {
+        "id": "6ac1ee4589b03e7af7ef71f9",
+        "name": "Vanilla Ice Cream",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 110,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa694",
+        "name": "Blue Cheese Dressing",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Egg",
+          "Garlic",
+          "Milk",
+          "MSG",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 160,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ee4589b03e7af7ef7234",
+        "name": "Hamburger on Bun",
+        "station": "Pure Eats",
+        "description": "Ground sirloin patty grilled to perfection and served on a white bun.",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Beef",
+          "Gluten",
+          "Sesame",
+          "Wheat"
+        ],
+        "calories": 380,
+        "portion": "1 sandwich"
+      },
+      {
+        "id": "6ac1ee4d89b03e7af7efa587",
+        "name": "Romaine Blend",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 10,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1ee4d89b03e7af7efa548",
+        "name": "Red and Green Bell Peppers",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 15,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ee4d89b03e7af7efa578",
+        "name": "Herb Roasted Mushrooms",
+        "station": "Pure Eats - Dessert",
+        "description": "Garlic and thyme roasted button mushrooms",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten",
+          "How Good Friendly"
+        ],
+        "allergens": [
+          "Garlic",
+          "Mushroom"
+        ],
+        "calories": 70,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb1a6",
+        "name": "Crushed Red Pepper",
+        "station": "Pure Eats - Dessert",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 5,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1ee4389b03e7af7ef5c32",
+        "name": "Vegetable Medley",
+        "station": "Pure Eats - Dessert",
+        "description": "Carrots, Squash, Broccoli, Mushrooms, Garlic, and Herbs",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten",
+          "How Good Friendly"
+        ],
+        "allergens": [
+          "Garlic",
+          "Mushroom"
+        ],
+        "calories": 50,
+        "portion": "4 ounce"
+      },
+      {
+        "id": "6ac1ee4589b03e7af7ef71e9",
+        "name": "Chocolate Ice Cream",
+        "station": "Pure Eats - Dessert",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 130,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee4589b03e7af7ef7216",
+        "name": "Golden Grahams Bars",
+        "station": "La Mesa",
+        "description": "Chewy, crunchy and out of this world!  No-bake bars are honey-sweet and topped with chocolate.",
+        "diet_tags": [],
+        "allergens": [
+          "Beef",
+          "Gluten",
+          "Milk",
+          "Pork",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 200,
+        "portion": "1 2\" x 3\""
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa6a3",
+        "name": "Honey Mustard Dressing",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Mustard"
+        ],
+        "calories": 150,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ee4389b03e7af7ef5c8c",
+        "name": "Vegetable Medley",
+        "station": "La Mesa",
+        "description": "Carrots, Squash, Broccoli, Mushrooms, Garlic, and Herbs",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten",
+          "How Good Friendly"
+        ],
+        "allergens": [
+          "Garlic",
+          "Mushroom"
+        ],
+        "calories": 50,
+        "portion": "4 ounce"
+      },
+      {
+        "id": "6ac1ee4389b03e7af7ef5c5c",
+        "name": "Toasted Farro",
+        "station": "La Mesa",
+        "description": "farro, vegetable broth",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Gluten",
+          "Mushroom",
+          "Onion",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 130,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee4389b03e7af7ef5c21",
+        "name": "Maple Glazed Pork",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Celery",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Mustard",
+          "Onion",
+          "Pork",
+          "Sulphites",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 330,
+        "portion": "1 serving(s)"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa666",
+        "name": "Balsamic Vinaigrette Dressing",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard"
+        ],
+        "calories": 60,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa5f9",
+        "name": "Shredded Cheddar Cheese",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 30,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa676",
+        "name": "Fat Free Italian Dressing",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 15,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ee4d89b03e7af7efa558",
+        "name": "Croutons",
+        "station": "La Mesa",
+        "description": "Croutons to add to a salad",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Sesame",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 80,
+        "portion": "1 ounce"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb133",
+        "name": "Tomato Alfredo Blush Sauce",
+        "station": "La Mesa",
+        "description": "Blush Sauce",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Milk",
+          "Mustard",
+          "Onion",
+          "Tomato"
+        ],
+        "calories": 100,
+        "portion": "2 floz"
+      },
+      {
+        "id": "6ac1ee4d89b03e7af7efa568",
+        "name": "Sliced Cucumber",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb184",
+        "name": "Dried Oregano",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1ee4589b03e7af7ef7243",
+        "name": "House Fried Potato Chips",
+        "station": "La Mesa",
+        "description": "House Made Potato Chips Fried to Perfection",
+        "diet_tags": [
+          "How Good Friendly"
+        ],
+        "allergens": [
+          "Soy"
+        ],
+        "calories": 380,
+        "portion": "4 ounce"
+      },
+      {
+        "id": "6ac1ee4389b03e7af7ef5c99",
+        "name": "Steamed Broccoli",
+        "station": "La Mesa",
+        "description": "Freshly steamed seasoned broccoli",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten",
+          "How Good Friendly"
+        ],
+        "allergens": [],
+        "calories": 30,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa5ab",
+        "name": "Shredded Carrots",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten",
+          "How Good Friendly"
+        ],
+        "allergens": [],
+        "calories": 10,
+        "portion": "1 ounce"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa637",
+        "name": "Ranch Dressing",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Garlic",
+          "Milk",
+          "MSG",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 220,
+        "portion": "2 floz"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa6b1",
+        "name": "Red Wine Vinegar",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Sulphites"
+        ],
+        "calories": 5,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ee4e89b03e7af7efa6c1",
+        "name": "Balsamic Vinegar",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Sulphites"
+        ],
+        "calories": 25,
+        "portion": "1 floz"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-05",
+    "location": "Frank Dining Hall",
+    "period": "Dinner",
+    "dishes": [
+      {
+        "id": "6ac1ee8689b03e7af7f13473",
+        "name": "Citrus Wild Rice Salad",
+        "station": "Bakery",
+        "description": "An earthy salad with a citrus flair",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "How Good Friendly"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard",
+          "Onion",
+          "Orange",
+          "Tomato"
+        ],
+        "calories": 120,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13458",
+        "name": "Herb Roasted Mushrooms",
+        "station": "Bakery",
+        "description": "Garlic and thyme roasted button mushrooms",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten",
+          "How Good Friendly"
+        ],
+        "allergens": [
+          "Garlic",
+          "Mushroom"
+        ],
+        "calories": 70,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb262",
+        "name": "Lima Beans",
+        "station": "Bakery",
+        "description": "Lightly seasoned",
+        "diet_tags": [
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Milk",
+          "Mustard",
+          "Pork",
+          "Soy"
+        ],
+        "calories": 130,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f134bc",
+        "name": "Grilled Herbed Chicken",
+        "station": "Bakery",
+        "description": "Seasoned with fresh basil and oregano",
+        "diet_tags": [
+          "Avoiding Gluten",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Poultry"
+        ],
+        "calories": 70,
+        "portion": "2 ounce"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13576",
+        "name": "Dried Oregano",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb221",
+        "name": "M&M Brownie",
+        "station": "Bakery",
+        "description": "Rich brownie with M&Ms",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Peanuts",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 230,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13383",
+        "name": "Greek Garbanzo Beans",
+        "station": "Daily Chef Soups",
+        "description": "Garbanzo beans coated in a greek seasoning",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 80,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f135ab",
+        "name": "Crushed Red Pepper",
+        "station": "Daily Chef Soups",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 5,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f136bc",
+        "name": "Carrot Ginger Miso Dressing",
+        "station": "Daily Chef Soups",
+        "description": "A sweet-tangy dressing that is a light and refresher addition to your salad",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Onion",
+          "Sesame",
+          "Soy",
+          "Sulphites"
+        ],
+        "calories": 110,
+        "portion": "2 floz"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13687",
+        "name": "Extra Virgin Olive Oil",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 480,
+        "portion": "2 floz"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f133eb",
+        "name": "Sliced Cucumber",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f136a2",
+        "name": "Ranch Dressing",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Garlic",
+          "Milk",
+          "MSG",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 220,
+        "portion": "2 floz"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f135e5",
+        "name": "Chow Mein Noodles",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 15,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13719",
+        "name": "Balsamic Vinaigrette Dressing",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard"
+        ],
+        "calories": 60,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13590",
+        "name": "Grated Parmesan Cheese",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 10,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13792",
+        "name": "Red Wine Vinegar",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Sulphites"
+        ],
+        "calories": 5,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb243",
+        "name": "Vanilla Ice Cream",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 110,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f135c7",
+        "name": "French Fried Onions",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Onion",
+          "Wheat"
+        ],
+        "calories": 20,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f134d8",
+        "name": "Shredded Carrots",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten",
+          "How Good Friendly"
+        ],
+        "allergens": [],
+        "calories": 10,
+        "portion": "1 ounce"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb204",
+        "name": "Chocolate Ice Cream",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 130,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb1c3",
+        "name": "Brussels Sprouts",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 15,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb1f3",
+        "name": "House Fried Potato Chips",
+        "station": "Pure Eats",
+        "description": "House Made Potato Chips Fried to Perfection",
+        "diet_tags": [
+          "How Good Friendly"
+        ],
+        "allergens": [
+          "Soy"
+        ],
+        "calories": 380,
+        "portion": "4 ounce"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f136fd",
+        "name": "Greek Feta Dressing",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Milk",
+          "Mustard"
+        ],
+        "calories": 100,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13424",
+        "name": "Linguine",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 110,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f1334e",
+        "name": "Pepperoni Pizza",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Beef",
+          "Celery",
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Mustard",
+          "Pork",
+          "Soy",
+          "Sulphites",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 210,
+        "portion": "1 slice"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f1348d",
+        "name": "Romaine Blend",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 10,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f136d8",
+        "name": "Creamy Caesar Dressing",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 110,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb291",
+        "name": "Chocolate Chip Cookies",
+        "station": "Pure Eats - Dessert",
+        "description": "Soft sugar cookie dotted with chocolate chips",
+        "diet_tags": [],
+        "allergens": [
+          "Beef",
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Pork",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 130,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f1366d",
+        "name": "Sesame Dressing",
+        "station": "Pure Eats - Dessert",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Gluten",
+          "Mustard",
+          "Sesame",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 80,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb252",
+        "name": "Glazed Carrots",
+        "station": "Pure Eats - Dessert",
+        "description": "In a light brown sugar glaze",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Soy"
+        ],
+        "calories": 120,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13407",
+        "name": "Roasted Sweet Potatoes",
+        "station": "Pure Eats - Dessert",
+        "description": "Sweet Potatoes, Parsley, Canola Oil, Salt and Ground Black Pepper",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 80,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13637",
+        "name": "Crumbled Feta Cheese",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 25,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13333",
+        "name": "Cheese Pizza",
+        "station": "La Mesa",
+        "description": "Traditional pizza with just pizza sauce and mozzarella cheese",
+        "diet_tags": [
+          "Vegetarian",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Sulphites",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 190,
+        "portion": "1 slice"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb271",
+        "name": "White Rice",
+        "station": "La Mesa",
+        "description": "White Rice Cooked with Canola Oil and Salt",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten",
+          "How Good Friendly"
+        ],
+        "allergens": [],
+        "calories": 230,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13507",
+        "name": "Honey Sriracha Tofu",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Garlic",
+          "Soy",
+          "Sulphites"
+        ],
+        "calories": 110,
+        "portion": "3 ounce"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13736",
+        "name": "Fat Free Italian Dressing",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 15,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb1d3",
+        "name": "Brussels Sprouts",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 15,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f1355a",
+        "name": "Marinara Sauce",
+        "station": "La Mesa",
+        "description": "Garlic Marinara Sauce",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Garlic",
+          "Onion",
+          "Tomato"
+        ],
+        "calories": 30,
+        "portion": "3 floz"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13757",
+        "name": "Blue Cheese Dressing",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Egg",
+          "Garlic",
+          "Milk",
+          "MSG",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 160,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f1343d",
+        "name": "Red Potato Salad",
+        "station": "La Mesa",
+        "description": "Classic Creamy Potato Salad with Delicious Red Bliss Potatoes",
+        "diet_tags": [
+          "Vegetarian",
+          "How Good Friendly"
+        ],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Garlic",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 170,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f1361c",
+        "name": "Shredded Cheddar Cheese",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 30,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13317",
+        "name": "Sweet Yeast Dinner Roll",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 100,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13774",
+        "name": "Honey Mustard Dressing",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Mustard"
+        ],
+        "calories": 150,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f134a9",
+        "name": "Baby Spinach",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten",
+          "How Good Friendly"
+        ],
+        "allergens": [],
+        "calories": 5,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb281",
+        "name": "Roast Beef",
+        "station": "La Mesa",
+        "description": "Slow roasted to perfection",
+        "diet_tags": [
+          "Avoiding Gluten",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Beef",
+          "Garlic"
+        ],
+        "calories": 70,
+        "portion": "1 ounce"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f1339f",
+        "name": "Red and Green Bell Peppers",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 15,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13652",
+        "name": "Sliced Red Onion",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Onion"
+        ],
+        "calories": 0,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb1b3",
+        "name": "roasted cauliflower",
+        "station": "La Mesa",
+        "description": "roasted cauliflower sprouts with oil, salt, and pepper",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 20,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f132fb",
+        "name": "Tomato Alfredo Blush Sauce",
+        "station": "La Mesa",
+        "description": "Blush Sauce",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Milk",
+          "Mustard",
+          "Onion",
+          "Tomato"
+        ],
+        "calories": 100,
+        "portion": "2 floz"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb213",
+        "name": "Vanilla Cake with Sprinkles",
+        "station": "Paper Lantern",
+        "description": "Fluffy cake with vanilla and sprinkles",
+        "diet_tags": [],
+        "allergens": [
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Sulphites",
+          "Wheat"
+        ],
+        "calories": 270,
+        "portion": "1 2\" x 2\""
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f137af",
+        "name": "Balsamic Vinegar",
+        "station": "Paper Lantern",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Sulphites"
+        ],
+        "calories": 25,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13525",
+        "name": "Cheez-It Crackers",
+        "station": "Paper Lantern",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 70,
+        "portion": "1/2 ounce"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f13600",
+        "name": "Dried Cranberries",
+        "station": "Paper Lantern",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 30,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f1336a",
+        "name": "Garlic Hummus",
+        "station": "Paper Lantern",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard",
+          "Sesame"
+        ],
+        "calories": 140,
+        "portion": "2 oz portion"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f1353d",
+        "name": "Chopped Hard Boiled Eggs",
+        "station": "Paper Lantern",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Egg"
+        ],
+        "calories": 50,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f134ec",
+        "name": "Cherry Tomatoes",
+        "station": "Paper Lantern",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Tomato"
+        ],
+        "calories": 5,
+        "portion": "1 ounce"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb233",
+        "name": "Roasted Butternut Squash",
+        "station": "Cucina-Pasta",
+        "description": "Delicious roasted butternut squash",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 60,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb2a1",
+        "name": "Raspberry Filled Croissant",
+        "station": "Cucina-Pasta",
+        "description": "Light and airy crossianrt filled with sweet raspeberry peserves",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 330,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ee4f89b03e7af7efb1e2",
+        "name": "Hamburger on Bun",
+        "station": "Cucina-Pasta",
+        "description": "Ground sirloin patty grilled to perfection and served on a white bun.",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Beef",
+          "Gluten",
+          "Sesame",
+          "Wheat"
+        ],
+        "calories": 380,
+        "portion": "1 sandwich"
+      },
+      {
+        "id": "6ac1ee8689b03e7af7f133c2",
+        "name": "Croutons",
+        "station": "Cucina-Pasta",
+        "description": "Croutons to add to a salad",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Sesame",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 80,
+        "portion": "1 ounce"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-05",
+    "location": "Frank Dining Hall",
+    "period": "Everyday",
+    "dishes": [
+      {
+        "id": "6ac1ee8f89b03e7af7f16f45",
+        "name": "Chipotle Cinnamon Seasoning",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16e32",
+        "name": "Hot Sauce",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1ee4489b03e7af7ef685c",
+        "name": "Sunflower Spread",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten",
+          "Good Source of Protein"
+        ],
+        "allergens": [],
+        "calories": 200,
+        "portion": "2 tbsp"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16f37",
+        "name": "Maple Smokehouse Seasoning",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard",
+          "Onion",
+          "Orange"
+        ],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16e4e",
+        "name": "Cholula Hot Sauce",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard"
+        ],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f2d6",
+        "name": "Sugar",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 15,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f306",
+        "name": "Half and Half",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 80,
+        "portion": "2 floz"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f35b",
+        "name": "Starry",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 100,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f315",
+        "name": "Tea Bag, Mint, Caffeine Free, RC Bigelow",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f420",
+        "name": "Grape Raspberry Water",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f37b",
+        "name": "Mello Yello",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Orange"
+        ],
+        "calories": 110,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f27fc1",
+        "name": "White Bread",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Sesame",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 150,
+        "portion": "2 slice"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f2818d",
+        "name": "Whipped Butter",
+        "station": "Nook",
+        "description": "Whipped Butter",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 100,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f280fb",
+        "name": "Cream Cheese",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 50,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16e94",
+        "name": "Cinnamon and Sugar",
+        "station": "Nook",
+        "description": "Cinnamon and Sugar",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 15,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1eeb989b03e7af7f27d42",
+        "name": "Cap'n Crunch's Crunch Berries",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten"
+        ],
+        "calories": 160,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16ec7",
+        "name": "Mojito Lime Seasoning",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard",
+          "Onion",
+          "Orange"
+        ],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1ee4489b03e7af7ef684d",
+        "name": "Bun, Hamburger, 2.5 oz, IW",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Egg",
+          "Soy"
+        ],
+        "calories": 200,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1eeb989b03e7af7f27d1e",
+        "name": "Original Kix Cereal",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 110,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f27f4d",
+        "name": "Apple",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 70,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16f29",
+        "name": "Za'atar Seasoning",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Sesame"
+        ],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1ee4489b03e7af7ef67f3",
+        "name": "Udi's Plain Bagel",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Egg"
+        ],
+        "calories": 310,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1eeb989b03e7af7f27db1",
+        "name": "Shredded Wheat",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 160,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1eeb989b03e7af7f27c2b",
+        "name": "Cocoa Puffs",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 140,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1eea389b03e7af7f1f1e2",
+        "name": "Orange Fanta",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Orange"
+        ],
+        "calories": 100,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f27f07",
+        "name": "Strawberry Cream Cheese",
+        "station": "Nook",
+        "description": "Sweet and fluffy strawberry whipped cream cheese",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Milk",
+          "Strawberry"
+        ],
+        "calories": 90,
+        "portion": "1 oz portion"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f280d5",
+        "name": "Strawberry Jelly Preserves",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Strawberry"
+        ],
+        "calories": 50,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f34e",
+        "name": "Tea Bag, Hot",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1eea389b03e7af7f1f296",
+        "name": "Apple Juice",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 110,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f2e6",
+        "name": "Sugar Substitute, Sweet n Low, Pink",
+        "station": "Nook",
+        "description": "Sweet n Low Sugar Substitute",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1eea389b03e7af7f1f23b",
+        "name": "2% Milk",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 120,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eea389b03e7af7f1f201",
+        "name": "Diet Pepsi",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f3b8",
+        "name": "Mountain Dew",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Orange"
+        ],
+        "calories": 110,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16ed5",
+        "name": "Harissa Seasoning",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16f1b",
+        "name": "Taco Seasoning",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Milk",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 10,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f3e4",
+        "name": "Lemon Slices",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 slice"
+      },
+      {
+        "id": "6ac1eeb989b03e7af7f27c76",
+        "name": "Frosted Flakes",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten"
+        ],
+        "calories": 130,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f33f",
+        "name": "Barq's Root Beer",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 100,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f27e70",
+        "name": "Cinnamon Spiced Berry Compote",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Strawberry"
+        ],
+        "calories": 35,
+        "portion": "2 floz"
+      },
+      {
+        "id": "6ac1eea389b03e7af7f1f22c",
+        "name": "Coffee",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "6 floz"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f27f71",
+        "name": "English Muffin",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 150,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f28042",
+        "name": "Udi's Plain Bagel",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Egg"
+        ],
+        "calories": 310,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16e6a",
+        "name": "Lawry's Salt Free Seasoning",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard",
+          "Onion",
+          "Orange",
+          "Sesame"
+        ],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f3f3",
+        "name": "Honey",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 60,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f27ebb",
+        "name": "Pancake and Waffle Syrup",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten"
+        ],
+        "calories": 180,
+        "portion": "2 floz"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16eff",
+        "name": "Salt",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ee4489b03e7af7ef683e",
+        "name": "Muffin, Blueberry, Udi's, 3 oz, IW",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Egg"
+        ],
+        "calories": 270,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16e77",
+        "name": "Bourbon Brown Sugar Seasoning",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Celery",
+          "Garlic",
+          "Gluten",
+          "Mustard",
+          "Onion",
+          "Wheat"
+        ],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1eea389b03e7af7f1f1c2",
+        "name": "Sprite",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 90,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eeb989b03e7af7f27d66",
+        "name": "Cap'n Crunch",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten"
+        ],
+        "calories": 150,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16dfc",
+        "name": "Barbecue Sauce",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Gluten",
+          "Mustard",
+          "Onion",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 100,
+        "portion": "2 floz"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16ef2",
+        "name": "Crushed Red Pepper",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 5,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f2f6",
+        "name": "Whole Milk",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 150,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16e17",
+        "name": "Ketchup",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Mustard",
+          "Onion",
+          "Tomato"
+        ],
+        "calories": 80,
+        "portion": "2 floz"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f28167",
+        "name": "Mini Marshmallows",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Beef",
+          "Pork"
+        ],
+        "calories": 10,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f27dd8",
+        "name": "Apple Jacks",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 110,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1ee4489b03e7af7ef687a",
+        "name": "Apple Jelly",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 60,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f27e49",
+        "name": "Whole Wheat Flatbread",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 180,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1eeb989b03e7af7f27d8b",
+        "name": "Raisin Bran",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 190,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1ee4489b03e7af7ef67e4",
+        "name": "English Muffin, 2.72 oz, IW",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Soy"
+        ],
+        "calories": 170,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f36a",
+        "name": "Ginger Ale",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 90,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f281b4",
+        "name": "Raspberry Sauce",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten"
+        ],
+        "calories": 110,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f2c6",
+        "name": "Cranberry Juice",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 110,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eea389b03e7af7f1f287",
+        "name": "Orange Juice",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Orange"
+        ],
+        "calories": 120,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eea389b03e7af7f1f276",
+        "name": "Sugar Substitute, Aspartame, Equal, Blue",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ee4489b03e7af7ef67aa",
+        "name": "Margarine Spread, Pareve, Smart Balance",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Soy"
+        ],
+        "calories": 30,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f27ee0",
+        "name": "Old Bay Cream Cheese",
+        "station": "Beverages",
+        "description": "Old bay and lemon spiced cream cheese with",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Milk",
+          "Mustard"
+        ],
+        "calories": 100,
+        "portion": "1 oz portion"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16dc9",
+        "name": "Sriracha Hot Chili Sauce",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Garlic",
+          "Sulphites"
+        ],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1ee4489b03e7af7ef6821",
+        "name": "Udi's Whole Grain Bread",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Egg"
+        ],
+        "calories": 150,
+        "portion": "1 slice"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16e25",
+        "name": "Mayonnaise",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg",
+          "Mustard"
+        ],
+        "calories": 380,
+        "portion": "2 floz"
+      },
+      {
+        "id": "6ac1eeb989b03e7af7f27c99",
+        "name": "Rice Krispies",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten"
+        ],
+        "calories": 100,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1eea389b03e7af7f1f1d2",
+        "name": "Decaf Coffee",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "6 floz"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f27f98",
+        "name": "Waffle Batter",
+        "station": "Beverages",
+        "description": "Carbon's Buttermilk Waffles",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Milk",
+          "Wheat"
+        ],
+        "calories": 300,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16e5b",
+        "name": "Vegetable Grill Mates Seasoning",
+        "station": "Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard",
+          "Onion",
+          "Sulphites",
+          "Tomato"
+        ],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f28120",
+        "name": "Grape Jelly",
+        "station": "Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 50,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1eeb989b03e7af7f27c04",
+        "name": "Cinnamon Toast Crunch",
+        "station": "Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 170,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f2808c",
+        "name": "Whipped Topping",
+        "station": "Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 25,
+        "portion": "2 tbsp"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16eba",
+        "name": "Lemon Pepper",
+        "station": "Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f27e24",
+        "name": "Rice Chex",
+        "station": "Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 100,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f32d",
+        "name": "Diet Coke",
+        "station": "Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1ee4489b03e7af7ef67bb",
+        "name": "Butter, Salted, Whipped",
+        "station": "Condiment",
+        "description": "Sweet Creamy Butter",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 70,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f402",
+        "name": "Watermelon Flavored Water",
+        "station": "Condiment",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eea389b03e7af7f1f249",
+        "name": "Skim Milk",
+        "station": "Spice Shaker",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 80,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eeb989b03e7af7f27cf9",
+        "name": "Cheerios",
+        "station": "Spice Shaker",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 100,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1ee8389b03e7af7f116b8",
+        "name": "Whole Wheat Bread",
+        "station": "Spice Shaker",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Sesame",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 150,
+        "portion": "2 slice"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16ea1",
+        "name": "Sriracha Seasoning",
+        "station": "Spice Shaker",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard"
+        ],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1ee8f89b03e7af7f16dd4",
+        "name": "Frank's Buffalo Sauce",
+        "station": "Spice Shaker",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Garlic"
+        ],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f27f2b",
+        "name": "Peanut Butter, .75 oz, Jif",
+        "station": "Spice Shaker",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Peanuts"
+        ],
+        "calories": 120,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f28068",
+        "name": "Rainbow Sprinkles",
+        "station": "Spice Shaker",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Soy",
+          "Sulphites"
+        ],
+        "calories": 45,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f42f",
+        "name": "Blueberry Pomegranate Flavored Water",
+        "station": "Spice Shaker",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f389",
+        "name": "Diet Dr. Pepper",
+        "station": "Spice Shaker",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f280b1",
+        "name": "Semi Sweet Chocolate Chips",
+        "station": "Spice Shaker",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk",
+          "Soy"
+        ],
+        "calories": 70,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1eea489b03e7af7f1f3d5",
+        "name": "Rice Milk",
+        "station": "Spice Shaker",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 120,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1ee8389b03e7af7f116d4",
+        "name": "Plain Bagel",
+        "station": "Spice Shaker",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Sesame",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 180,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1eea389b03e7af7f1f20d",
+        "name": "Oat Milk",
+        "station": "Spice Shaker",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 130,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eea389b03e7af7f1f258",
+        "name": "Mug Root Beer",
+        "station": "Spice Shaker",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 90,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1eeba89b03e7af7f27dfe",
+        "name": "Frosted Mini Wheats",
+        "station": "Spice Shaker",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Beef",
+          "Gluten",
+          "Pork",
+          "Wheat"
+        ],
+        "calories": 210,
+        "portion": "1 cup"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-05",
+    "location": "The Coop",
+    "period": "Breakfast",
+    "dishes": [
+      {
+        "id": "6ac1ed7b89b03e7af7ea6262",
+        "name": "Roasted Broccoli",
+        "station": "Grill",
+        "description": "Broccoli seasoned with sea salt and pepper",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "How Good Friendly",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 40,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ed7b89b03e7af7ea6220",
+        "name": "Egg and Cheese Biscuit Sandwich",
+        "station": "Grill",
+        "description": "Egg and Cheese Biscuit Breakfast Sandwich",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Beef",
+          "Egg",
+          "Gluten",
+          "Milk",
+          "MSG",
+          "Pork",
+          "Wheat"
+        ],
+        "calories": 390,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed09c6",
+        "name": "Cubed Pineapple",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 20,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ed7b89b03e7af7ea617e",
+        "name": "Croissant",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg",
+          "Gluten",
+          "Milk",
+          "MSG",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 130,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ed7b89b03e7af7ea61ef",
+        "name": "Morrocan Spiced Zucchini",
+        "station": "Grill",
+        "description": "Fresh zucchini sauteed oil with cinnamon, turmeric, and cloves",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "How Good Friendly",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 45,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ed7b89b03e7af7ea6210",
+        "name": "Turkey and Mushroom Patty",
+        "station": "Grill",
+        "description": "A blend of chopped mushrooms and ground turkey make an excellent burger option",
+        "diet_tags": [
+          "Good Source of Protein",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Garlic",
+          "Mushroom",
+          "Onion",
+          "Poultry"
+        ],
+        "calories": 120,
+        "portion": "4 ounce"
+      },
+      {
+        "id": "6ac1ed7b89b03e7af7ea618f",
+        "name": "Cinnamon Maple Biscuit",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 110,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ed7b89b03e7af7ea61ff",
+        "name": "Vegan Potato Breakfast Skillet",
+        "station": "Grill",
+        "description": "Delicious breakfast skillet with potatoes, onions, bell peppers and fresh herbs & spices",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Good Source of Protein",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Garlic",
+          "Mushroom",
+          "Onion"
+        ],
+        "calories": 640,
+        "portion": "6 oz portion"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed0951",
+        "name": "Honey",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 60,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed090a",
+        "name": "Cubed Cantaloupe",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "How Good Friendly",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 25,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed0943",
+        "name": "Oats 'n Honey Protein Granola",
+        "station": "Oatmeal Bar",
+        "description": "Sweet and crunch oats and honey protein granola",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "MSG",
+          "Soy"
+        ],
+        "calories": 100,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed0917",
+        "name": "Cubed Honeydew",
+        "station": "Oatmeal Bar",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "How Good Friendly",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 30,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed08ea",
+        "name": "Red and Green Bell Peppers",
+        "station": "Oatmeal Bar",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 15,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ed7b89b03e7af7ea6252",
+        "name": "White Rice",
+        "station": "Oatmeal Bar",
+        "description": "White Rice Cooked with Canola Oil and Salt",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "How Good Friendly",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 110,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed08dd",
+        "name": "Pork Bacon",
+        "station": "Oatmeal Bar",
+        "description": "chopped bacon",
+        "diet_tags": [],
+        "allergens": [
+          "Pork"
+        ],
+        "calories": 45,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1ed7b89b03e7af7ea6232",
+        "name": "Buttermilk Pancakes",
+        "station": "Oatmeal Bar",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 340,
+        "portion": "2 each"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed08cf",
+        "name": "Diced Onions",
+        "station": "Oatmeal Bar",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Onion"
+        ],
+        "calories": 15,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ed7b89b03e7af7ea61bf",
+        "name": "Meatless Vegetarian Sausage Patty",
+        "station": "Oatmeal Bar",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Gluten",
+          "Milk",
+          "MSG",
+          "Mustard",
+          "Onion",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 70,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed0933",
+        "name": "Fat Free Vanilla Greek Yogurt",
+        "station": "Oatmeal Bar",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Good Source of Protein",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 90,
+        "portion": "1/2 cup"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-05",
+    "location": "The Coop",
+    "period": "Lunch",
+    "dishes": [
+      {
+        "id": "6ac1edb089b03e7af7eba620",
+        "name": "Cooked Quinoa",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 60,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed0891",
+        "name": "Sauteed Spinach with Garlic",
+        "station": "Grill",
+        "description": "spinach, garlic, salt, pepper",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Garlic"
+        ],
+        "calories": 70,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1edb189b03e7af7eba9c4",
+        "name": "Veggie Burger",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Mustard",
+          "Onion",
+          "Soy",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 160,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1edd089b03e7af7ec78a0",
+        "name": "Chicken Noodle Soup",
+        "station": "Grill",
+        "description": "roasted chicken in chicken broth with carrots, celery, onions, pasta and spices",
+        "diet_tags": [],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Gluten",
+          "Mustard",
+          "Onion",
+          "Poultry",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 40,
+        "portion": "4 floz"
+      },
+      {
+        "id": "6ac1edd089b03e7af7ec78e3",
+        "name": "Dried Oregano",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba31f",
+        "name": "Hummus",
+        "station": "Grill",
+        "description": "A classic garbanzo bean hummus with olive oil, salt, lemon juice, and tahini",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Sesame",
+          "Sulphites"
+        ],
+        "calories": 110,
+        "portion": "2 ounce"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed0a90",
+        "name": "Sugar Cookies",
+        "station": "Grill",
+        "description": "Dusted with sugar.",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 120,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba2ad",
+        "name": "Sweet and Sour Tofu",
+        "station": "Grill",
+        "description": "Crispy tofu with peppers and pineapples in a sweet and sour sauce",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard",
+          "Onion",
+          "Sesame",
+          "Soy",
+          "Tomato"
+        ],
+        "calories": 190,
+        "portion": "1-1/2 cup"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba47c",
+        "name": "French Fried Onions",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Onion",
+          "Wheat"
+        ],
+        "calories": 20,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed0961",
+        "name": "Steak and Cheese Loaded Tater Tots",
+        "station": "Chef's Table Lunch",
+        "description": "Cheese steak loaded tater tots with peppers and onions, smothered in cheese sauce",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Beef",
+          "Celery",
+          "Milk",
+          "Mustard",
+          "Onion",
+          "Tomato"
+        ],
+        "calories": 280,
+        "portion": "1 plate"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed0ab0",
+        "name": "Hershey Cookies & Cream Ice Cream",
+        "station": "Chef's Table Lunch",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 170,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba37b",
+        "name": "Sliced Black Olives",
+        "station": "Chef's Table Lunch",
+        "description": "Sliced Black Olives",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 35,
+        "portion": "1 ounce"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba2e3",
+        "name": "Penne Pasta",
+        "station": "Chef's Table Lunch",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "How Good Friendly",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 180,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba35c",
+        "name": "Sliced Cucumber",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed08b0",
+        "name": "Chocolate Ice Cream",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 130,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba5e6",
+        "name": "Ranch Dressing",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Garlic",
+          "Milk",
+          "MSG",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 220,
+        "portion": "2 floz"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba442",
+        "name": "Chick Peas",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "How Good Friendly",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 70,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed0a64",
+        "name": "Turkey Meat Sauce",
+        "station": "Gates and Grains",
+        "description": "Savory pasta sauce made with ground turkey",
+        "diet_tags": [
+          "Good Source of Protein",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Garlic",
+          "Onion",
+          "Poultry",
+          "Tomato"
+        ],
+        "calories": 100,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba7c1",
+        "name": "12\" Spinach Herb Tortilla",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Gluten",
+          "Mustard",
+          "Onion",
+          "Sulphites",
+          "Wheat"
+        ],
+        "calories": 290,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1edb189b03e7af7eba9a6",
+        "name": "House Fried Potato Chips",
+        "station": "Gates and Grains",
+        "description": "House Made Potato Chips Fried to Perfection",
+        "diet_tags": [
+          "How Good Friendly"
+        ],
+        "allergens": [
+          "Soy"
+        ],
+        "calories": 380,
+        "portion": "4 ounce"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba573",
+        "name": "Blue Cheese Dressing",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Egg",
+          "Garlic",
+          "Milk",
+          "MSG",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 160,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba2ca",
+        "name": "Yakisoba Noodles",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 230,
+        "portion": "4 ounce"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba3e0",
+        "name": "Cherry Tomatoes",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Tomato"
+        ],
+        "calories": 5,
+        "portion": "1 ounce"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed0a0c",
+        "name": "Butter Chicken",
+        "station": "Gates and Grains",
+        "description": "Chicken marinated and roasted with a smooth and spicy tomato cream sauce",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Mustard",
+          "Onion",
+          "Poultry",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Tomato",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 290,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba6fa",
+        "name": "Tuna Salad",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Fish (Tuna)",
+          "Fish",
+          "MSG",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 150,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba460",
+        "name": "Hard Boiled Egg",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Egg"
+        ],
+        "calories": 70,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba76b",
+        "name": "Rye Bread",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Soy",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 110,
+        "portion": "1 slice"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba258",
+        "name": "Parmesan Herbed Garlic Bread",
+        "station": "Gates and Grains",
+        "description": "French bread with garlic aioli and seasoning",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Mustard",
+          "Soy",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 200,
+        "portion": "1 piece"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba33f",
+        "name": "Red and Green Bell Peppers",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 15,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba7fb",
+        "name": "Cheddar Cheese",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 90,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1edd089b03e7af7ec78ef",
+        "name": "Crushed Red Pepper",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 5,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1edb189b03e7af7eba929",
+        "name": "Beef Hot Dog with Bun",
+        "station": "Gates and Grains",
+        "description": "An American classic all beef hot dog",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Beef",
+          "Gluten",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 340,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1edb189b03e7af7eba947",
+        "name": "French Fries",
+        "station": "Pizza",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": 60,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1edd089b03e7af7ec78c8",
+        "name": "Pepperoni Pizza",
+        "station": "Pizza",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Beef",
+          "Celery",
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Mustard",
+          "Pork",
+          "Soy",
+          "Sulphites",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 210,
+        "portion": "1 slice"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba7a4",
+        "name": "12\" Flour Tortilla",
+        "station": "Pizza",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Gluten",
+          "Sulphites",
+          "Wheat"
+        ],
+        "calories": 290,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba733",
+        "name": "Sliced Pit Ham",
+        "station": "Pizza",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Pork"
+        ],
+        "calories": 40,
+        "portion": "1 ounce"
+      },
+      {
+        "id": "6ac1edb089b03e7af7eba274",
+        "name": "Marinara Sauce",
+        "station": "Soup",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Garlic",
+          "Onion",
+          "Tomato"
+        ],
+        "calories": 50,
+        "portion": "4 floz"
+      },
+      {
+        "id": "6ac1ede289b03e7af7ed097e",
+        "name": "Cheese Sauce",
+        "station": "Soup",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Gluten",
+          "Milk",
+          "Onion",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 50,
+        "portion": "1 ladle-1oz"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-05",
+    "location": "The Coop",
+    "period": "Dinner",
+    "dishes": [
+      {
+        "id": "6ac1edc889b03e7af7ec47fe",
+        "name": "Sliced Jalapeno Pepper",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1edce89b03e7af7ec6c21",
+        "name": "Shredded Carrots",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "How Good Friendly",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 10,
+        "portion": "1 ounce"
+      },
+      {
+        "id": "6ac1edc889b03e7af7ec486e",
+        "name": "Strawberry Ice Cream",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Beef",
+          "Milk",
+          "Pork",
+          "Strawberry"
+        ],
+        "calories": 120,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1edcf89b03e7af7ec6e29",
+        "name": "Cubed Honeydew",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "How Good Friendly",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 15,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1ed7b89b03e7af7ea62de",
+        "name": "Crushed Red Pepper",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 5,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1edce89b03e7af7ec6bfb",
+        "name": "Romaine Blend",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 10,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1ed7689b03e7af7ea3485",
+        "name": "Steamed Broccoli",
+        "station": "Chef Table Dinner",
+        "description": "Freshly steamed seasoned broccoli",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "How Good Friendly",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 30,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1edce89b03e7af7ec6ce9",
+        "name": "Extra Virgin Olive Oil",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 480,
+        "portion": "2 floz"
+      },
+      {
+        "id": "6ac1edce89b03e7af7ec6c60",
+        "name": "Chow Mein Noodles",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 15,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1edc889b03e7af7ec4825",
+        "name": "Roasted Salsa Verde",
+        "station": "Chef Table Dinner",
+        "description": "Smoky Grilled  Roasted Salsa",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Garlic",
+          "Onion"
+        ],
+        "calories": 15,
+        "portion": "2 oz portion"
+      },
+      {
+        "id": "6ac1edc889b03e7af7ec4878",
+        "name": "Hershey Cookies & Cream Ice Cream",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 170,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1edc889b03e7af7ec481c",
+        "name": "Sauteed Onions and Peppers",
+        "station": "Chef Table Dinner",
+        "description": "Onions and peppers fajita style",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "How Good Friendly",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Garlic",
+          "Onion"
+        ],
+        "calories": 50,
+        "portion": "3 ounce"
+      },
+      {
+        "id": "6ac1ed7b89b03e7af7ea62ed",
+        "name": "Grated Parmesan Cheese",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 10,
+        "portion": "1 tsp"
+      },
+      {
+        "id": "6ac1edce89b03e7af7ec6cd0",
+        "name": "Blue Cheese Dressing",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Egg",
+          "Garlic",
+          "Milk",
+          "MSG",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 160,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1edc889b03e7af7ec47e9",
+        "name": "Shredded Iceberg Lettuce",
+        "station": "Pizza",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 5,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1edc889b03e7af7ec477c",
+        "name": "Fresh Citrus Agua Fresca",
+        "station": "Pizza",
+        "description": "Made with fresh lemon juice, grapefruit juice and orange juice",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Orange"
+        ],
+        "calories": 30,
+        "portion": "8 floz"
+      },
+      {
+        "id": "6ac1ed7b89b03e7af7ea62c1",
+        "name": "White Tomato Garlic and Oil Pizza",
+        "station": "Pizza",
+        "description": "Garlic oil, ricotta, mozzarella, and tomatoes",
+        "diet_tags": [
+          "Vegetarian",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Sulphites",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 230,
+        "portion": "1 slice"
+      },
+      {
+        "id": "6ac1edce89b03e7af7ec6cdc",
+        "name": "Creamy Caesar Dressing",
+        "station": "Pizza",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Mustard",
+          "Onion"
+        ],
+        "calories": 110,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1edce89b03e7af7ec6bbb",
+        "name": "Croutons",
+        "station": "Gates and Grains",
+        "description": "Croutons to add to a salad",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Sesame",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 80,
+        "portion": "1 ounce"
+      },
+      {
+        "id": "6ac1edcf89b03e7af7ec6db2",
+        "name": "Wheat Bread",
+        "station": "Gates and Grains",
+        "description": "Wheat Bread",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Milk",
+          "Sesame",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 70,
+        "portion": "1 slice"
+      },
+      {
+        "id": "6ac1edc889b03e7af7ec47b8",
+        "name": "Cilantro Lime Rice",
+        "station": "Gates and Grains",
+        "description": "Cilantro Lime Rice",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 110,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1ed7689b03e7af7ea3481",
+        "name": "Brown Sugar Mashed Sweet Potatoes",
+        "station": "Gates and Grains",
+        "description": "Mashed sweet potatoes with butter, cinnamon, nutmeg and brown sugar",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 100,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1edce89b03e7af7ec6d12",
+        "name": "Balsamic Vinaigrette Dressing",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mustard"
+        ],
+        "calories": 60,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac1ed7689b03e7af7ea347f",
+        "name": "Turkey Gravy",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Celery",
+          "Gluten",
+          "Mustard",
+          "Poultry",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 35,
+        "portion": "2 floz"
+      },
+      {
+        "id": "6ac1edc889b03e7af7ec47d8",
+        "name": "Crispy Tortilla Chips",
+        "station": "Gates and Grains",
+        "description": "Crispy Freshly Fried Corn Tortillas",
+        "diet_tags": [],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 170,
+        "portion": "3 oz portion"
+      },
+      {
+        "id": "6ac1edc889b03e7af7ec4834",
+        "name": "Pineapple Ginger Agua Fresca",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 170,
+        "portion": "10 floz"
+      },
+      {
+        "id": "6ac1edc889b03e7af7ec47a2",
+        "name": "Diced Onions",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Onion"
+        ],
+        "calories": 15,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac1edce89b03e7af7ec6d37",
+        "name": "Sliced Banana Peppers",
+        "station": "Gates and Grains",
+        "description": "Sliced Banana Peppers",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Sulphites"
+        ],
+        "calories": 0,
+        "portion": "1 ounce"
+      },
+      {
+        "id": "6ac1edcf89b03e7af7ec6e42",
+        "name": "Red Grapes",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 50,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac1edcf89b03e7af7ec6e69",
+        "name": "Beef Macaroni Tomato Casserole",
+        "station": "Gates and Grains",
+        "description": "Ground beef and pasta in a light tomato sauce",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Beef",
+          "Celery",
+          "Garlic",
+          "Gluten",
+          "Onion",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 270,
+        "portion": "10 oz portion"
+      },
+      {
+        "id": "6ac1edcf89b03e7af7ec6d8b",
+        "name": "Sliced Pit Ham",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Pork"
+        ],
+        "calories": 40,
+        "portion": "1 ounce"
+      },
+      {
+        "id": "6ac1edc889b03e7af7ec47f4",
+        "name": "Fresh Cilantro",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac1edc889b03e7af7ec480a",
+        "name": "Beef Taco Meat",
+        "station": "Gates and Grains",
+        "description": "Latin seasoned ground beef, accented with chipotle peppers, lime and cilantro will add flavor to your palate!",
+        "diet_tags": [
+          "Good Source of Protein",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Beef",
+          "Garlic",
+          "Onion",
+          "Tomato"
+        ],
+        "calories": 240,
+        "portion": "4 ounce"
+      },
+      {
+        "id": "6ac1edc889b03e7af7ec4717",
+        "name": "Plantain and Black Bean Burger",
+        "station": "Gates and Grains",
+        "description": "Mashed plantain and black bean patty on a vegan brioche bun",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Garlic",
+          "Gluten",
+          "Mustard",
+          "Onion",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Wheat"
+        ],
+        "calories": 560,
+        "portion": "1 sandwich"
+      },
+      {
+        "id": "6ac1edcf89b03e7af7ec6df1",
+        "name": "Provolone Cheese",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "calories": 70,
+        "portion": "1 slice"
+      },
+      {
+        "id": "6ac1edcf89b03e7af7ec6e76",
+        "name": "Penne Pasta",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian",
+          "How Good Friendly",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 180,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac1edcf89b03e7af7ec6d7f",
+        "name": "Turkey Breast, House Roasted",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Poultry"
+        ],
+        "calories": 45,
+        "portion": "1 oz portion"
+      },
+      {
+        "id": "6ac1edc889b03e7af7ec474b",
+        "name": "Loaded Burger Salad Bowls",
+        "station": "Soup",
+        "description": "Seasoned beef, lettuce, tomatoes, onions, pickles, avocado, and burger sauce",
+        "diet_tags": [
+          "Good Source of Protein",
+          "Avoiding Gluten"
+        ],
+        "allergens": [
+          "Beef",
+          "Garlic",
+          "Mustard",
+          "Onion",
+          "Tomato"
+        ],
+        "calories": 450,
+        "portion": "10 oz portion"
+      },
+      {
+        "id": "6ac1ed7b89b03e7af7ea629e",
+        "name": "Cheese Pizza",
+        "station": "Soup",
+        "description": "Traditional pizza with just pizza sauce and mozzarella cheese",
+        "diet_tags": [
+          "Vegetarian",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Sulphites",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 190,
+        "portion": "1 slice"
+      }
+    ]
+  }
+]

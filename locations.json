@@ -1,0 +1,172 @@
+{
+  "locations": [
+    {
+      "id": "588150c73191a2fadfd6f8fd",
+      "name": "The Coop",
+      "status": {
+        "label": "open",
+        "message": "Open now.",
+        "color": "green"
+      },
+      "slug": "the-coop",
+      "showMap": true,
+      "buildingName": "O'Connor Campus Center",
+      "buildingId": "5eb1a1864198d408ba3ea0d4",
+      "buildingSortOrder": 3,
+      "sortOrder": 0,
+      "mealPeriodSchedules": [],
+      "badgeAccessSchedules": [],
+      "meal_period_schedules": [],
+      "badge_access_schedules": []
+    },
+    {
+      "id": "588230103191a2fac0d85d39",
+      "name": "Frank Dining Hall",
+      "status": {
+        "label": "open",
+        "message": "Open now.",
+        "color": "green"
+      },
+      "slug": "frank-dining-hall",
+      "showMap": true,
+      "buildingName": "Curtis E. Frank Hall",
+      "buildingId": "5eb1a2574198d408ba3ebe4a",
+      "buildingSortOrder": 2,
+      "sortOrder": 0,
+      "mealPeriodSchedules": [],
+      "badgeAccessSchedules": [],
+      "meal_period_schedules": [],
+      "badge_access_schedules": []
+    },
+    {
+      "id": "5e1cbabd4198d419c8a275de",
+      "name": "Donovan's Pub",
+      "status": {
+        "label": "open",
+        "message": "Open now.",
+        "color": "green"
+      },
+      "slug": "donovan-s-pub",
+      "showMap": true,
+      "buildingName": "James C. Colgate Hall",
+      "buildingId": "689df38f8f2f2b16555b14e6",
+      "buildingSortOrder": 0,
+      "sortOrder": 0,
+      "mealPeriodSchedules": [],
+      "badgeAccessSchedules": [],
+      "meal_period_schedules": [],
+      "badge_access_schedules": []
+    },
+    {
+      "id": "5e68f8f84198d40d16d3ebdc",
+      "name": "Chobani at Hieber Caf\u00e9",
+      "status": {
+        "label": "open",
+        "message": "Open now.",
+        "color": "green"
+      },
+      "slug": "chobani-at-hieber-cafe",
+      "showMap": true,
+      "buildingName": "Case Library",
+      "buildingId": "5f49acf40b693d1781148167",
+      "buildingSortOrder": 1,
+      "sortOrder": 0,
+      "mealPeriodSchedules": [],
+      "badgeAccessSchedules": [],
+      "meal_period_schedules": [],
+      "badge_access_schedules": []
+    },
+    {
+      "id": "601afd6131d1ee2dd00c5955",
+      "name": "13th Street Smoothie",
+      "status": {
+        "label": "open",
+        "message": "Open now.",
+        "color": "green"
+      },
+      "slug": "13th-street-smoothie",
+      "showMap": true,
+      "buildingName": "O'Connor Campus Center",
+      "buildingId": "5eb1a1864198d408ba3ea0d4",
+      "buildingSortOrder": 3,
+      "sortOrder": 1,
+      "mealPeriodSchedules": [],
+      "badgeAccessSchedules": [],
+      "meal_period_schedules": [],
+      "badge_access_schedules": []
+    },
+    {
+      "id": "69aed5e828513b8fa77b1ec0",
+      "name": "Cafe 13 ",
+      "status": {
+        "label": "open",
+        "message": "Open now.",
+        "color": "green"
+      },
+      "slug": "cafe-13",
+      "showMap": true,
+      "buildingName": "Curtis E. Frank Hall",
+      "buildingId": "5eb1a2574198d408ba3ebe4a",
+      "buildingSortOrder": 2,
+      "sortOrder": 1,
+      "mealPeriodSchedules": [],
+      "badgeAccessSchedules": [],
+      "meal_period_schedules": [],
+      "badge_access_schedules": []
+    },
+    {
+      "id": "66cc85d4e45d4307a7f0aa59",
+      "name": "13th Street Deli",
+      "status": {
+        "label": "open",
+        "message": "Open now.",
+        "color": "green"
+      },
+      "slug": "13th-street-deli",
+      "showMap": true,
+      "buildingName": "O'Connor Campus Center",
+      "buildingId": "5eb1a1864198d408ba3ea0d4",
+      "buildingSortOrder": 3,
+      "sortOrder": 2,
+      "mealPeriodSchedules": [],
+      "badgeAccessSchedules": [],
+      "meal_period_schedules": [],
+      "badge_access_schedules": []
+    },
+    {
+      "id": "690ced08276daafd3314306b",
+      "name": "C Store ",
+      "status": {
+        "label": "open",
+        "message": "Open now.",
+        "color": "green"
+      },
+      "slug": "c-store",
+      "showMap": true,
+      "buildingName": "O'Connor Campus Center",
+      "buildingId": "5eb1a1864198d408ba3ea0d4",
+      "buildingSortOrder": 3,
+      "sortOrder": 3,
+      "mealPeriodSchedules": [],
+      "badgeAccessSchedules": [],
+      "meal_period_schedules": [],
+      "badge_access_schedules": []
+    },
+    {
+      "id": "5e6902524198d40d16db77e4",
+      "name": "Merrill House",
+      "status": {
+        "label": "open",
+        "message": "Open now.",
+        "color": "green"
+      },
+      "slug": "merrill-house",
+      "showMap": true,
+      "sortOrder": 4,
+      "mealPeriodSchedules": [],
+      "badgeAccessSchedules": [],
+      "meal_period_schedules": [],
+      "badge_access_schedules": []
+    }
+  ]
+}
