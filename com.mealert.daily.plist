@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- A unique name for this scheduled job -->
+    <key>Label</key>
+    <string>com.mealert.daily</string>
+
+    <!-- What to run -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>/Users/mfiakpornucolgate.edu/Documents/GitHub/mealert/run_daily.py</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/mfiakpornucolgate.edu/Documents/GitHub/mealert</string>
+
+    <!-- When: every day at 6:45 AM -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>6</integer>
+        <key>Minute</key>
+        <integer>45</integer>
+    </dict>
+
+    <!-- Where the output goes, so you can check what happened -->
+    <key>StandardOutPath</key>
+    <string>/Users/mfiakpornucolgate.edu/Documents/GitHub/mealert/mealert.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/mfiakpornucolgate.edu/Documents/GitHub/mealert/mealert.log</string>
+</dict>
+</plist>
