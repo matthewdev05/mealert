@@ -1,0 +1,3901 @@
+[
+  {
+    "date": "2026-10-08",
+    "location": "Frank Dining Hall",
+    "period": "Breakfast",
+    "dishes": [
+      {
+        "id": "68c896015667565deb1b0028",
+        "name": "Americano",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8993c3d119b570f1a2cc5",
+        "name": "Raspberry Jam Oat Bar",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897f9b649f08bc5c538bf",
+        "name": "Fruit and Yogurt Parfait",
+        "station": "Bakery",
+        "description": "With honey cinnamon granola",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89838a1bf03cf7dc4e40b",
+        "name": "Liege Waffle",
+        "station": "Breakfast",
+        "description": "With pearl sugar",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "6a860c084194f7bd2338ecdb",
+        "name": "Strawberry Lemonade",
+        "station": "Breakfast",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897960ef9cce3bb1baf3b",
+        "name": "Organic Tea",
+        "station": "Breakfast",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89651a1bf03cf7dc4799b",
+        "name": "Flavored Latte",
+        "station": "Breakfast",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "694036134e40dcfcf730c2a9",
+        "name": "Hummus Toast",
+        "station": "Breakfast",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8961fd3bac9b850c55179",
+        "name": "Gibraltar",
+        "station": "Breakfast",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8975f09276ec374c62663",
+        "name": "Lemonade",
+        "station": "Breakfast",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897ca3d51ae2b581cfea8",
+        "name": "Soy Milk",
+        "station": "Breakfast",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89637015b0d9f0dc3e3dc",
+        "name": "Latte",
+        "station": "Breakfast",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89643e8fba8852fc4e9f9",
+        "name": "Vanilla Bean Latte",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8980e729a48dd671972e5",
+        "name": "Chia Seed Pudding",
+        "station": "Omelet",
+        "description": "With fruit puree",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89931085904985ac7f199",
+        "name": "Pumpkin Bread",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89752f81411872f1b77c6",
+        "name": "Matcha Lemonade",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896665667565deb1b8171",
+        "name": "Cold Brew",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8986100510fdf7b196199",
+        "name": "Turkey Sanwich",
+        "station": "Omelet",
+        "description": "With arugula, cheese, pickled onions and dijonaise.",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898fdd3bac9b850c6e90b",
+        "name": "Honey Cinnamon Scone | AG",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897d8384749b231c65e8a",
+        "name": "Double Shot",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896b3947c2128431a5ccd",
+        "name": "Sunshine",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897bb085904985ac6c928",
+        "name": "Oat Milk",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c895f8edc71da843c4a6d0",
+        "name": "Espresso",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898d40a96ce6b301b2c4c",
+        "name": "Bacon Cheddar Chive Scone",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89916729a48dd671ac3c3",
+        "name": "Morning Bun",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896f7947c2128431a8ef9",
+        "name": "Hot Chocolate",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "6a860c1cdbc3c2356f2e8d85",
+        "name": "Hibiscus Lemonade",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8962d384749b231c54d45",
+        "name": "Cappuccino",
+        "station": "Omelet",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89824f81411872f1c1824",
+        "name": "Fancy Chia Seed Pudding",
+        "station": "Omelet",
+        "description": "With almond butter and coconut",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8977cd3bac9b850c5e1b2",
+        "name": "Sparkling Tea",
+        "station": "Fruit & Yogurt",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898e2a1bf03cf7dc50e79",
+        "name": "Dark Chocolate Raspberry Scone",
+        "station": "Fruit & Yogurt",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "6a860bd964675d64e571b1af",
+        "name": "Strawberry Matcha",
+        "station": "Fruit & Yogurt",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8978bf756598dd0c5cb57",
+        "name": "Honey Tea Bowl",
+        "station": "Fruit & Yogurt",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897433d119b570f19a929",
+        "name": "Matcha",
+        "station": "Fruit & Yogurt",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898f1384749b231c6edd9",
+        "name": "Goat Cheese and Leak Scone | AG",
+        "station": "Fruit & Yogurt",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "6a860bf0967042d5ad5adfeb",
+        "name": "Strawberry Matcha Lemonade",
+        "station": "Fruit & Yogurt",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8967989a3bec221c3a1a6",
+        "name": "California Cold Brew",
+        "station": "Fruit & Yogurt",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8969d947c2128431a4864",
+        "name": "Honey Lavender",
+        "station": "Fruit & Yogurt",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898bef81411872f1c7c0b",
+        "name": "Croissant",
+        "station": "Fruit & Yogurt",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898c9e8fba8852fc60969",
+        "name": "Ham and Cheese Croissant",
+        "station": "Fruit & Yogurt",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89690f81411872f1ac4c0",
+        "name": "Honey",
+        "station": "Fruit & Yogurt",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896bea4dfd68bb2c46c35",
+        "name": "Butterscotch",
+        "station": "Fruit & Yogurt",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "location": "Frank Dining Hall",
+    "period": "Lunch",
+    "dishes": [
+      {
+        "id": "68c8967989a3bec221c3a1a6",
+        "name": "California Cold Brew",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89824f81411872f1c1824",
+        "name": "Fancy Chia Seed Pudding",
+        "station": "Bakery",
+        "description": "With almond butter and coconut",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89683f756598dd0c53eeb",
+        "name": "Vanilla",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89931085904985ac7f199",
+        "name": "Pumpkin Bread",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89916729a48dd671ac3c3",
+        "name": "Morning Bun",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89611d3bac9b850c54cd5",
+        "name": "Macchiato",
+        "station": "Bakery",
+        "description": "Traditional 4 oz",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "694036134e40dcfcf730c2a9",
+        "name": "Hummus Toast",
+        "station": "Daily Chef Soups",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897bb085904985ac6c928",
+        "name": "Oat Milk",
+        "station": "Daily Chef Soups",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c895f8edc71da843c4a6d0",
+        "name": "Espresso",
+        "station": "Daily Chef Soups",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8969d947c2128431a4864",
+        "name": "Honey Lavender",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8977cd3bac9b850c5e1b2",
+        "name": "Sparkling Tea",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8993c3d119b570f1a2cc5",
+        "name": "Raspberry Jam Oat Bar",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898f1384749b231c6edd9",
+        "name": "Goat Cheese and Leak Scone | AG",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896015667565deb1b0028",
+        "name": "Americano",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8975f09276ec374c62663",
+        "name": "Lemonade",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89838a1bf03cf7dc4e40b",
+        "name": "Liege Waffle",
+        "station": "Daily Grill Condiment",
+        "description": "With pearl sugar",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89752f81411872f1b77c6",
+        "name": "Matcha Lemonade",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8988009276ec374c72522",
+        "name": "Sausage Breakfast Sandwich",
+        "station": "Daily Grill Condiment",
+        "description": "Sausage, cheddar, frittata and dijonaise.",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898e2a1bf03cf7dc50e79",
+        "name": "Dark Chocolate Raspberry Scone",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896b3947c2128431a5ccd",
+        "name": "Sunshine",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c899263d51ae2b581e40fb",
+        "name": "Vegan Chocolate Banana Bread | VG",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897960ef9cce3bb1baf3b",
+        "name": "Organic Tea",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8962d384749b231c54d45",
+        "name": "Cappuccino",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898d40a96ce6b301b2c4c",
+        "name": "Bacon Cheddar Chive Scone",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8961fd3bac9b850c55179",
+        "name": "Gibraltar",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8990c0a96ce6b301b4015",
+        "name": "Scout Cookie",
+        "station": "Pure Eats",
+        "description": "Contains nuts",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898fdd3bac9b850c6e90b",
+        "name": "Honey Cinnamon Scone | AG",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89739198ed2c639c3eafb",
+        "name": "Milkshake",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8965bf756598dd0c517a9",
+        "name": "Mocha",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896f7947c2128431a8ef9",
+        "name": "Hot Chocolate",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897d8384749b231c65e8a",
+        "name": "Double Shot",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8986100510fdf7b196199",
+        "name": "Turkey Sanwich",
+        "station": "Pure Eats - Dessert",
+        "description": "With arugula, cheese, pickled onions and dijonaise.",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "6a860bf0967042d5ad5adfeb",
+        "name": "Strawberry Matcha Lemonade",
+        "station": "Pure Eats - Dessert",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896bea4dfd68bb2c46c35",
+        "name": "Butterscotch",
+        "station": "Pure Eats - Dessert",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897a4b296ba18d81ab8cb",
+        "name": "Chai Tea Latte",
+        "station": "Pure Eats - Dessert",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8980e729a48dd671972e5",
+        "name": "Chia Seed Pudding",
+        "station": "Pure Eats - Dessert",
+        "description": "With fruit puree",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89651a1bf03cf7dc4799b",
+        "name": "Flavored Latte",
+        "station": "Pure Eats - Dessert",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89637015b0d9f0dc3e3dc",
+        "name": "Latte",
+        "station": "Pure Eats - Dessert",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "6a860bd964675d64e571b1af",
+        "name": "Strawberry Matcha",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898bef81411872f1c7c0b",
+        "name": "Croissant",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89702b296ba18d81a842a",
+        "name": "Steamer",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8978bf756598dd0c5cb57",
+        "name": "Honey Tea Bowl",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "6a860c084194f7bd2338ecdb",
+        "name": "Strawberry Lemonade",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c895ed3d119b570f195705",
+        "name": "Coffee",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896665667565deb1b8171",
+        "name": "Cold Brew",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896aa5667565deb1bd54e",
+        "name": "Raw Sugar and Whiskey",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897f9b649f08bc5c538bf",
+        "name": "Fruit and Yogurt Parfait",
+        "station": "La Mesa",
+        "description": "With honey cinnamon granola",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8970d00510fdf7b195261",
+        "name": "Affogato",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897ca3d51ae2b581cfea8",
+        "name": "Soy Milk",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8976ab69e45deeec3b8b8",
+        "name": "Iced Tea",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "6a860c1cdbc3c2356f2e8d85",
+        "name": "Hibiscus Lemonade",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897b0085904985ac6bf8d",
+        "name": "Goldyn Mylk",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89643e8fba8852fc4e9f9",
+        "name": "Vanilla Bean Latte",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898c9e8fba8852fc60969",
+        "name": "Ham and Cheese Croissant",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898b5085904985ac7836e",
+        "name": "Chocolate Croissant",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89690f81411872f1ac4c0",
+        "name": "Honey",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897433d119b570f19a929",
+        "name": "Matcha",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "location": "Frank Dining Hall",
+    "period": "Dinner",
+    "dishes": [
+      {
+        "id": "68c8993c3d119b570f1a2cc5",
+        "name": "Raspberry Jam Oat Bar",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89916729a48dd671ac3c3",
+        "name": "Morning Bun",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898c9e8fba8852fc60969",
+        "name": "Ham and Cheese Croissant",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c899263d51ae2b581e40fb",
+        "name": "Vegan Chocolate Banana Bread | VG",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897960ef9cce3bb1baf3b",
+        "name": "Organic Tea",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898e2a1bf03cf7dc50e79",
+        "name": "Dark Chocolate Raspberry Scone",
+        "station": "Bakery",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896015667565deb1b0028",
+        "name": "Americano",
+        "station": "Daily Chef Soups",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "694036134e40dcfcf730c2a9",
+        "name": "Hummus Toast",
+        "station": "Daily Chef Soups",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c895ed3d119b570f195705",
+        "name": "Coffee",
+        "station": "Daily Chef Soups",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8978bf756598dd0c5cb57",
+        "name": "Honey Tea Bowl",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89651a1bf03cf7dc4799b",
+        "name": "Flavored Latte",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "6a860c084194f7bd2338ecdb",
+        "name": "Strawberry Lemonade",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896f7947c2128431a8ef9",
+        "name": "Hot Chocolate",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89643e8fba8852fc4e9f9",
+        "name": "Vanilla Bean Latte",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8962d384749b231c54d45",
+        "name": "Cappuccino",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897bb085904985ac6c928",
+        "name": "Oat Milk",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "6a860c1cdbc3c2356f2e8d85",
+        "name": "Hibiscus Lemonade",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89702b296ba18d81a842a",
+        "name": "Steamer",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897a4b296ba18d81ab8cb",
+        "name": "Chai Tea Latte",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8976ab69e45deeec3b8b8",
+        "name": "Iced Tea",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c895f8edc71da843c4a6d0",
+        "name": "Espresso",
+        "station": "Daily Grill Condiment",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8967989a3bec221c3a1a6",
+        "name": "California Cold Brew",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89838a1bf03cf7dc4e40b",
+        "name": "Liege Waffle",
+        "station": "Pure Eats",
+        "description": "With pearl sugar",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "6a860bf0967042d5ad5adfeb",
+        "name": "Strawberry Matcha Lemonade",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898fdd3bac9b850c6e90b",
+        "name": "Honey Cinnamon Scone | AG",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8975f09276ec374c62663",
+        "name": "Lemonade",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89739198ed2c639c3eafb",
+        "name": "Milkshake",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8986100510fdf7b196199",
+        "name": "Turkey Sanwich",
+        "station": "Pure Eats",
+        "description": "With arugula, cheese, pickled onions and dijonaise.",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898b5085904985ac7836e",
+        "name": "Chocolate Croissant",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8977cd3bac9b850c5e1b2",
+        "name": "Sparkling Tea",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89690f81411872f1ac4c0",
+        "name": "Honey",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8970d00510fdf7b195261",
+        "name": "Affogato",
+        "station": "Pure Eats",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897433d119b570f19a929",
+        "name": "Matcha",
+        "station": "Pure Eats - Dessert",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89752f81411872f1b77c6",
+        "name": "Matcha Lemonade",
+        "station": "Pure Eats - Dessert",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898d40a96ce6b301b2c4c",
+        "name": "Bacon Cheddar Chive Scone",
+        "station": "Pure Eats - Dessert",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897d8384749b231c65e8a",
+        "name": "Double Shot",
+        "station": "Pure Eats - Dessert",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896665667565deb1b8171",
+        "name": "Cold Brew",
+        "station": "Pure Eats - Dessert",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8961fd3bac9b850c55179",
+        "name": "Gibraltar",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89683f756598dd0c53eeb",
+        "name": "Vanilla",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "6a860bd964675d64e571b1af",
+        "name": "Strawberry Matcha",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8980e729a48dd671972e5",
+        "name": "Chia Seed Pudding",
+        "station": "La Mesa",
+        "description": "With fruit puree",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897f9b649f08bc5c538bf",
+        "name": "Fruit and Yogurt Parfait",
+        "station": "La Mesa",
+        "description": "With honey cinnamon granola",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89611d3bac9b850c54cd5",
+        "name": "Macchiato",
+        "station": "La Mesa",
+        "description": "Traditional 4 oz",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8969d947c2128431a4864",
+        "name": "Honey Lavender",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896b3947c2128431a5ccd",
+        "name": "Sunshine",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8965bf756598dd0c517a9",
+        "name": "Mocha",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898bef81411872f1c7c0b",
+        "name": "Croissant",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896bea4dfd68bb2c46c35",
+        "name": "Butterscotch",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897b0085904985ac6bf8d",
+        "name": "Goldyn Mylk",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89824f81411872f1c1824",
+        "name": "Fancy Chia Seed Pudding",
+        "station": "La Mesa",
+        "description": "With almond butter and coconut",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896aa5667565deb1bd54e",
+        "name": "Raw Sugar and Whiskey",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897ca3d51ae2b581cfea8",
+        "name": "Soy Milk",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8990c0a96ce6b301b4015",
+        "name": "Scout Cookie",
+        "station": "La Mesa",
+        "description": "Contains nuts",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89637015b0d9f0dc3e3dc",
+        "name": "Latte",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898f1384749b231c6edd9",
+        "name": "Goat Cheese and Leak Scone | AG",
+        "station": "La Mesa",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8988009276ec374c72522",
+        "name": "Sausage Breakfast Sandwich",
+        "station": "Paper Lantern",
+        "description": "Sausage, cheddar, frittata and dijonaise.",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89931085904985ac7f199",
+        "name": "Pumpkin Bread",
+        "station": "Paper Lantern",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "location": "Frank Dining Hall",
+    "period": "Everyday",
+    "dishes": [
+      {
+        "id": "68c897f9b649f08bc5c538bf",
+        "name": "Fruit and Yogurt Parfait",
+        "station": "Nook",
+        "description": "With honey cinnamon granola",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89739198ed2c639c3eafb",
+        "name": "Milkshake",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898d40a96ce6b301b2c4c",
+        "name": "Bacon Cheddar Chive Scone",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8965bf756598dd0c517a9",
+        "name": "Mocha",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8962d384749b231c54d45",
+        "name": "Cappuccino",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8967989a3bec221c3a1a6",
+        "name": "California Cold Brew",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89690f81411872f1ac4c0",
+        "name": "Honey",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8988009276ec374c72522",
+        "name": "Sausage Breakfast Sandwich",
+        "station": "Nook",
+        "description": "Sausage, cheddar, frittata and dijonaise.",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896b3947c2128431a5ccd",
+        "name": "Sunshine",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897433d119b570f19a929",
+        "name": "Matcha",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8976ab69e45deeec3b8b8",
+        "name": "Iced Tea",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898c9e8fba8852fc60969",
+        "name": "Ham and Cheese Croissant",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89643e8fba8852fc4e9f9",
+        "name": "Vanilla Bean Latte",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c899263d51ae2b581e40fb",
+        "name": "Vegan Chocolate Banana Bread | VG",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898f1384749b231c6edd9",
+        "name": "Goat Cheese and Leak Scone | AG",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8990c0a96ce6b301b4015",
+        "name": "Scout Cookie",
+        "station": "Nook",
+        "description": "Contains nuts",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89651a1bf03cf7dc4799b",
+        "name": "Flavored Latte",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898b5085904985ac7836e",
+        "name": "Chocolate Croissant",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "6a860bf0967042d5ad5adfeb",
+        "name": "Strawberry Matcha Lemonade",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89683f756598dd0c53eeb",
+        "name": "Vanilla",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "694036134e40dcfcf730c2a9",
+        "name": "Hummus Toast",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8969d947c2128431a4864",
+        "name": "Honey Lavender",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897d8384749b231c65e8a",
+        "name": "Double Shot",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896aa5667565deb1bd54e",
+        "name": "Raw Sugar and Whiskey",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8975f09276ec374c62663",
+        "name": "Lemonade",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c895f8edc71da843c4a6d0",
+        "name": "Espresso",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898fdd3bac9b850c6e90b",
+        "name": "Honey Cinnamon Scone | AG",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896665667565deb1b8171",
+        "name": "Cold Brew",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8970d00510fdf7b195261",
+        "name": "Affogato",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896bea4dfd68bb2c46c35",
+        "name": "Butterscotch",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89702b296ba18d81a842a",
+        "name": "Steamer",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8986100510fdf7b196199",
+        "name": "Turkey Sanwich",
+        "station": "Nook",
+        "description": "With arugula, cheese, pickled onions and dijonaise.",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c895ed3d119b570f195705",
+        "name": "Coffee",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89637015b0d9f0dc3e3dc",
+        "name": "Latte",
+        "station": "Nook",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897960ef9cce3bb1baf3b",
+        "name": "Organic Tea",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89838a1bf03cf7dc4e40b",
+        "name": "Liege Waffle",
+        "station": "Beverages",
+        "description": "With pearl sugar",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897a4b296ba18d81ab8cb",
+        "name": "Chai Tea Latte",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897ca3d51ae2b581cfea8",
+        "name": "Soy Milk",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "6a860c1cdbc3c2356f2e8d85",
+        "name": "Hibiscus Lemonade",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89931085904985ac7f199",
+        "name": "Pumpkin Bread",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896015667565deb1b0028",
+        "name": "Americano",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "6a860c084194f7bd2338ecdb",
+        "name": "Strawberry Lemonade",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8980e729a48dd671972e5",
+        "name": "Chia Seed Pudding",
+        "station": "Beverages",
+        "description": "With fruit puree",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89916729a48dd671ac3c3",
+        "name": "Morning Bun",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "6a860bd964675d64e571b1af",
+        "name": "Strawberry Matcha",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8978bf756598dd0c5cb57",
+        "name": "Honey Tea Bowl",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897bb085904985ac6c928",
+        "name": "Oat Milk",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89824f81411872f1c1824",
+        "name": "Fancy Chia Seed Pudding",
+        "station": "Beverages",
+        "description": "With almond butter and coconut",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89752f81411872f1b77c6",
+        "name": "Matcha Lemonade",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c89611d3bac9b850c54cd5",
+        "name": "Macchiato",
+        "station": "Beverages",
+        "description": "Traditional 4 oz",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8961fd3bac9b850c55179",
+        "name": "Gibraltar",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8977cd3bac9b850c5e1b2",
+        "name": "Sparkling Tea",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c897b0085904985ac6bf8d",
+        "name": "Goldyn Mylk",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c896f7947c2128431a8ef9",
+        "name": "Hot Chocolate",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898e2a1bf03cf7dc50e79",
+        "name": "Dark Chocolate Raspberry Scone",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c898bef81411872f1c7c0b",
+        "name": "Croissant",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      },
+      {
+        "id": "68c8993c3d119b570f1a2cc5",
+        "name": "Raspberry Jam Oat Bar",
+        "station": "Beverages",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [],
+        "calories": "",
+        "portion": "\u2014"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "location": "The Coop",
+    "period": "Breakfast",
+    "dishes": [
+      {
+        "id": "6ac820db89b03e7af7ddace9",
+        "name": "Sliced Jalapeno Pepper",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac820d789b03e7af7dd8cd8",
+        "name": "Garlic Shrimp",
+        "station": "Grill",
+        "description": "Lightly floured shrimp broiled in roasted garlic & herb compound butter",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Milk",
+          "Mustard",
+          "Shellfish - Crustacean (Shrimp)",
+          "Shellfish - Crustacean",
+          "Sulphites"
+        ],
+        "calories": 1110,
+        "portion": "6 each"
+      },
+      {
+        "id": "6ac820db89b03e7af7ddab96",
+        "name": "Sesame Cucumbers",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Sesame"
+        ],
+        "calories": 35,
+        "portion": "2 oz portion"
+      },
+      {
+        "id": "6ac820de89b03e7af7ddc01d",
+        "name": "Ginger Sweet Potatoes",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Onion",
+          "Sesame"
+        ],
+        "calories": 150,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac820db89b03e7af7ddac7c",
+        "name": "Sliced Pickled Ginger",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac820d389b03e7af7dd75b8",
+        "name": "Ancient Grains",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Onion"
+        ],
+        "calories": 190,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac820da89b03e7af7dda1b0",
+        "name": "Hot Pepper Water",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Garlic",
+          "Gluten",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 0,
+        "portion": "1/2 floz"
+      },
+      {
+        "id": "6ac820d689b03e7af7dd8343",
+        "name": "Citrus Scallop Ceviche",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Onion",
+          "Sesame",
+          "Shellfish - Mollusk",
+          "Sulphites"
+        ],
+        "calories": 100,
+        "portion": "5 oz portion"
+      },
+      {
+        "id": "6ac820d789b03e7af7dd8b1a",
+        "name": "Huli Huli Chicken",
+        "station": "Oatmeal Bar",
+        "description": "Char grilled chicken thighs with sweet and tangy sauce",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Celery",
+          "Fish",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Mustard",
+          "Onion",
+          "Poultry",
+          "Soy",
+          "Sulphites",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 270,
+        "portion": "4 ounce"
+      },
+      {
+        "id": "6ac820d389b03e7af7dd7571",
+        "name": "Ensalada Verde",
+        "station": "Oatmeal Bar",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Garlic",
+          "Onion"
+        ],
+        "calories": 100,
+        "portion": "6 oz portion"
+      },
+      {
+        "id": "6ac820dc89b03e7af7ddae9c",
+        "name": "Scallion Slaw",
+        "station": "Oatmeal Bar",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Garlic",
+          "Gluten",
+          "Onion",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Wheat"
+        ],
+        "calories": 110,
+        "portion": "2 ounce"
+      },
+      {
+        "id": "6ac820d789b03e7af7dd8d29",
+        "name": "Honey Miso Glazed Salmon",
+        "station": "Oatmeal Bar",
+        "description": "Grilled salmon marinated in miso, honey, sake, mirin and ginger",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Fish (Pink Salmon)",
+          "Fish",
+          "Gluten",
+          "Onion",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 200,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac820db89b03e7af7ddad54",
+        "name": "Chili Mango",
+        "station": "Oatmeal Bar",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Garlic",
+          "Sulphites"
+        ],
+        "calories": 35,
+        "portion": "2 oz portion"
+      },
+      {
+        "id": "6ac820dc89b03e7af7ddae2d",
+        "name": "Grilled Pineapple",
+        "station": "Oatmeal Bar",
+        "description": "Agave, Lime & Brown Sugar Glazed Pineapple Slices",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 150,
+        "portion": "2 slice"
+      },
+      {
+        "id": "6ac820e189b03e7af7ddd31f",
+        "name": "Loco Moco Brown Gravy",
+        "station": "Oatmeal Bar",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Gluten",
+          "Mushroom",
+          "Mustard",
+          "Onion",
+          "Orange",
+          "Soy",
+          "Sulphites",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 70,
+        "portion": "4 floz"
+      },
+      {
+        "id": "6ac820d889b03e7af7dd9205",
+        "name": "Malasadas, Portuguese Fried Dough",
+        "station": "Oatmeal Bar",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Wheat"
+        ],
+        "calories": 300,
+        "portion": "3 each"
+      },
+      {
+        "id": "6ac820dc89b03e7af7ddafdf",
+        "name": "Kimchi",
+        "station": "Oatmeal Bar",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Fish (Anchovy)",
+          "Fish",
+          "Garlic",
+          "Onion"
+        ],
+        "calories": 20,
+        "portion": "1/4 cup"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "location": "The Coop",
+    "period": "Lunch",
+    "dishes": [
+      {
+        "id": "6ac820d389b03e7af7dd75fa",
+        "name": "Sushi Rice",
+        "station": "Grill",
+        "description": "Sushi Rice",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Sulphites"
+        ],
+        "calories": 10,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac820dc89b03e7af7ddadc3",
+        "name": "Spicy Ginger Pickled Red Onion",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Garlic",
+          "Mustard",
+          "Onion",
+          "Sulphites"
+        ],
+        "calories": 20,
+        "portion": "1 ounce"
+      },
+      {
+        "id": "6ac820d889b03e7af7dd9205",
+        "name": "Malasadas, Portuguese Fried Dough",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Wheat"
+        ],
+        "calories": 300,
+        "portion": "3 each"
+      },
+      {
+        "id": "6ac820de89b03e7af7ddc175",
+        "name": "Sesame Green Beans",
+        "station": "Grill",
+        "description": "Crunchy green beans with toasted sesame seeds.",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Sesame",
+          "Soy"
+        ],
+        "calories": 80,
+        "portion": "3/4 cup"
+      },
+      {
+        "id": "6ac820e189b03e7af7ddd393",
+        "name": "cage-free fried egg",
+        "station": "Grill",
+        "description": "cage-free egg fried in canola oil",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg"
+        ],
+        "calories": 80,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac820d789b03e7af7dd8b72",
+        "name": "Teriyaki Spiced Beef Patty",
+        "station": "Grill",
+        "description": "Teriyaki glazed burger patty for loco moco bowls.",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Beef",
+          "Egg",
+          "Fish",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Onion",
+          "Peanuts",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 460,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac820db89b03e7af7ddab96",
+        "name": "Sesame Cucumbers",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Sesame"
+        ],
+        "calories": 35,
+        "portion": "2 oz portion"
+      },
+      {
+        "id": "6ac820d689b03e7af7dd83fd",
+        "name": "Shrimp Salad",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Garlic",
+          "Mustard",
+          "Onion",
+          "Shellfish - Crustacean (Shrimp)",
+          "Shellfish - Crustacean",
+          "Sulphites"
+        ],
+        "calories": 240,
+        "portion": "5 oz portion"
+      },
+      {
+        "id": "6ac820dc89b03e7af7ddb051",
+        "name": "Wakame Seaweed Salad",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Gluten",
+          "Mushroom",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Wheat"
+        ],
+        "calories": 15,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac820da89b03e7af7dda1b0",
+        "name": "Hot Pepper Water",
+        "station": "Chef's Table Lunch",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Garlic",
+          "Gluten",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 0,
+        "portion": "1/2 floz"
+      },
+      {
+        "id": "6ac820d789b03e7af7dd8c80",
+        "name": "Kalua Pork Roast",
+        "station": "Chef's Table Lunch",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Egg",
+          "Fish",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Onion",
+          "Peanuts",
+          "Pork",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 350,
+        "portion": "5 ounce"
+      },
+      {
+        "id": "6ac820dc89b03e7af7ddaf10",
+        "name": "Fried Wonton Strips",
+        "station": "Chef's Table Lunch",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 90,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac820d689b03e7af7dd82e1",
+        "name": "Teriyaki Marinated Tofu",
+        "station": "Chef's Table Lunch",
+        "description": "House made terriyaki baked tofu",
+        "diet_tags": [
+          "Vegetarian",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Garlic",
+          "Soy",
+          "Sulphites"
+        ],
+        "calories": 130,
+        "portion": "4 ounce"
+      },
+      {
+        "id": "6ac820db89b03e7af7ddac06",
+        "name": "Daikon Radish Salad",
+        "station": "Chef's Table Lunch",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Onion",
+          "Sulphites"
+        ],
+        "calories": 20,
+        "portion": "2 oz portion"
+      },
+      {
+        "id": "6ac820df89b03e7af7ddc1e2",
+        "name": "Stir Fry Cabbage and Bok Choy",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Celery",
+          "Garlic",
+          "Mushroom",
+          "Mustard",
+          "Onion",
+          "Sesame",
+          "Soy"
+        ],
+        "calories": 210,
+        "portion": "6 ounce"
+      },
+      {
+        "id": "6ac820d689b03e7af7dd83a0",
+        "name": "Watermelon Poke",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Alcohol",
+          "Egg",
+          "Fish",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Onion",
+          "Peanuts",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 150,
+        "portion": "5 oz portion"
+      },
+      {
+        "id": "6ac820da89b03e7af7dda21e",
+        "name": "Sliced Avocado",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 60,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac820d789b03e7af7dd8d29",
+        "name": "Honey Miso Glazed Salmon",
+        "station": "Gates and Grains",
+        "description": "Grilled salmon marinated in miso, honey, sake, mirin and ginger",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Fish (Pink Salmon)",
+          "Fish",
+          "Gluten",
+          "Onion",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 200,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac820db89b03e7af7ddab25",
+        "name": "Garlic Chili Edamame",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mushroom",
+          "Mustard",
+          "Onion",
+          "Soy"
+        ],
+        "calories": 60,
+        "portion": "2 oz portion"
+      },
+      {
+        "id": "6ac820d389b03e7af7dd7571",
+        "name": "Ensalada Verde",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Garlic",
+          "Onion"
+        ],
+        "calories": 100,
+        "portion": "6 oz portion"
+      },
+      {
+        "id": "6ac820d689b03e7af7dd8343",
+        "name": "Citrus Scallop Ceviche",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Onion",
+          "Sesame",
+          "Shellfish - Mollusk",
+          "Sulphites"
+        ],
+        "calories": 100,
+        "portion": "5 oz portion"
+      },
+      {
+        "id": "6ac820e189b03e7af7ddd2ae",
+        "name": "Sushi Rice",
+        "station": "Gates and Grains",
+        "description": "Sushi Rice",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Sulphites"
+        ],
+        "calories": 10,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac820db89b03e7af7ddac7c",
+        "name": "Sliced Pickled Ginger",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac820dc89b03e7af7ddae9c",
+        "name": "Scallion Slaw",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Garlic",
+          "Gluten",
+          "Onion",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Wheat"
+        ],
+        "calories": 110,
+        "portion": "2 ounce"
+      },
+      {
+        "id": "6ac820da89b03e7af7dda144",
+        "name": "Classic Spam Musubi",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Egg",
+          "Fish",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Onion",
+          "Peanuts",
+          "Pork",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 170,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac820dc89b03e7af7ddafdf",
+        "name": "Kimchi",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Fish (Anchovy)",
+          "Fish",
+          "Garlic",
+          "Onion"
+        ],
+        "calories": 20,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac820d789b03e7af7dd8b1a",
+        "name": "Huli Huli Chicken",
+        "station": "Gates and Grains",
+        "description": "Char grilled chicken thighs with sweet and tangy sauce",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Celery",
+          "Fish",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Mustard",
+          "Onion",
+          "Poultry",
+          "Soy",
+          "Sulphites",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 270,
+        "portion": "4 ounce"
+      },
+      {
+        "id": "6ac820d689b03e7af7dd8461",
+        "name": "Tuna Poke",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Egg",
+          "Fish (Tuna)",
+          "Fish",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Onion",
+          "Peanuts",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 250,
+        "portion": "5 oz portion"
+      },
+      {
+        "id": "6ac820e189b03e7af7ddd31f",
+        "name": "Loco Moco Brown Gravy",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Gluten",
+          "Mushroom",
+          "Mustard",
+          "Onion",
+          "Orange",
+          "Soy",
+          "Sulphites",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 70,
+        "portion": "4 floz"
+      },
+      {
+        "id": "6ac820de89b03e7af7ddc10b",
+        "name": "Chili Aioli",
+        "station": "Gates and Grains",
+        "description": "Mayonniase blended with Korean chili paste, sriracha & Chili crispo",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Celery",
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Mushroom",
+          "Mustard",
+          "Onion",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 180,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac820db89b03e7af7ddace9",
+        "name": "Sliced Jalapeno Pepper",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac820df89b03e7af7ddc247",
+        "name": "Hawaiian Garlic Noodles",
+        "station": "Pizza",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Celery",
+          "Egg",
+          "Fish",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "MSG",
+          "Mushroom",
+          "Mustard",
+          "Onion",
+          "Peanuts",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 680,
+        "portion": "6 oz portion"
+      },
+      {
+        "id": "6ac820d789b03e7af7dd8cd8",
+        "name": "Garlic Shrimp",
+        "station": "Pizza",
+        "description": "Lightly floured shrimp broiled in roasted garlic & herb compound butter",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Milk",
+          "Mustard",
+          "Shellfish - Crustacean (Shrimp)",
+          "Shellfish - Crustacean",
+          "Sulphites"
+        ],
+        "calories": 1110,
+        "portion": "6 each"
+      },
+      {
+        "id": "6ac820de89b03e7af7ddc01d",
+        "name": "Ginger Sweet Potatoes",
+        "station": "Pizza",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Onion",
+          "Sesame"
+        ],
+        "calories": 150,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac820dc89b03e7af7ddae2d",
+        "name": "Grilled Pineapple",
+        "station": "Soup",
+        "description": "Agave, Lime & Brown Sugar Glazed Pineapple Slices",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 150,
+        "portion": "2 slice"
+      },
+      {
+        "id": "6ac820d789b03e7af7dd8bcf",
+        "name": "Teriyaki Spiced Beyond Burger Patty",
+        "station": "Soup",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Egg",
+          "Fish",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Onion",
+          "Peanuts",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 270,
+        "portion": "1 each"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "location": "The Coop",
+    "period": "Dinner",
+    "dishes": [
+      {
+        "id": "6ac8211789b03e7af7df87dc",
+        "name": "Teriyaki Spiced Beyond Burger Patty",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Egg",
+          "Fish",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Onion",
+          "Peanuts",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 270,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac8211789b03e7af7df880f",
+        "name": "Teriyaki Spiced Beef Patty",
+        "station": "Grill",
+        "description": "Teriyaki glazed burger patty for loco moco bowls.",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Beef",
+          "Egg",
+          "Fish",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Onion",
+          "Peanuts",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 460,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac8211189b03e7af7df49df",
+        "name": "Sesame Cucumbers",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Sesame"
+        ],
+        "calories": 35,
+        "portion": "2 oz portion"
+      },
+      {
+        "id": "6ac8211189b03e7af7df4a3e",
+        "name": "Garlic Chili Edamame",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Mushroom",
+          "Mustard",
+          "Onion",
+          "Soy"
+        ],
+        "calories": 60,
+        "portion": "2 oz portion"
+      },
+      {
+        "id": "6ac8211289b03e7af7df57f7",
+        "name": "Teriyaki Marinated Tofu",
+        "station": "Grill",
+        "description": "House made terriyaki baked tofu",
+        "diet_tags": [
+          "Vegetarian",
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Garlic",
+          "Soy",
+          "Sulphites"
+        ],
+        "calories": 130,
+        "portion": "4 ounce"
+      },
+      {
+        "id": "6ac8211189b03e7af7df498f",
+        "name": "Daikon Radish Salad",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Onion",
+          "Sulphites"
+        ],
+        "calories": 20,
+        "portion": "2 oz portion"
+      },
+      {
+        "id": "6ac8211089b03e7af7df4751",
+        "name": "Scallion Slaw",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Garlic",
+          "Gluten",
+          "Onion",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Wheat"
+        ],
+        "calories": 110,
+        "portion": "2 ounce"
+      },
+      {
+        "id": "6ac8211389b03e7af7df5c26",
+        "name": "Ensalada Verde",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Garlic",
+          "Onion"
+        ],
+        "calories": 100,
+        "portion": "6 oz portion"
+      },
+      {
+        "id": "6ac8211089b03e7af7df4618",
+        "name": "Kimchi",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Fish (Anchovy)",
+          "Fish",
+          "Garlic",
+          "Onion"
+        ],
+        "calories": 20,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac8210b89b03e7af7df1c4a",
+        "name": "cage-free fried egg",
+        "station": "Grill",
+        "description": "cage-free egg fried in canola oil",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Egg"
+        ],
+        "calories": 80,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac8210c89b03e7af7df27bb",
+        "name": "Stir Fry Cabbage and Bok Choy",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Celery",
+          "Garlic",
+          "Mushroom",
+          "Mustard",
+          "Onion",
+          "Sesame",
+          "Soy"
+        ],
+        "calories": 210,
+        "portion": "6 ounce"
+      },
+      {
+        "id": "6ac8211389b03e7af7df5b47",
+        "name": "Sushi Rice",
+        "station": "Grill",
+        "description": "Sushi Rice",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Sulphites"
+        ],
+        "calories": 10,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac8211189b03e7af7df492f",
+        "name": "Sliced Pickled Ginger",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac8211289b03e7af7df52bf",
+        "name": "Hot Pepper Water",
+        "station": "Grill",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Garlic",
+          "Gluten",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 0,
+        "portion": "1/2 floz"
+      },
+      {
+        "id": "6ac8210b89b03e7af7df1cc3",
+        "name": "Loco Moco Brown Gravy",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Gluten",
+          "Mushroom",
+          "Mustard",
+          "Onion",
+          "Orange",
+          "Soy",
+          "Sulphites",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 70,
+        "portion": "4 floz"
+      },
+      {
+        "id": "6ac8210d89b03e7af7df2a11",
+        "name": "Ginger Sweet Potatoes",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Onion",
+          "Sesame"
+        ],
+        "calories": 150,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac8211789b03e7af7df8788",
+        "name": "Kalua Pork Roast",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Egg",
+          "Fish",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Onion",
+          "Peanuts",
+          "Pork",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 350,
+        "portion": "5 ounce"
+      },
+      {
+        "id": "6ac8211289b03e7af7df5496",
+        "name": "Malasadas, Portuguese Fried Dough",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Egg",
+          "Gluten",
+          "Milk",
+          "Wheat"
+        ],
+        "calories": 300,
+        "portion": "3 each"
+      },
+      {
+        "id": "6ac8211489b03e7af7df6448",
+        "name": "Honey Miso Glazed Salmon",
+        "station": "Chef Table Dinner",
+        "description": "Grilled salmon marinated in miso, honey, sake, mirin and ginger",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Fish (Pink Salmon)",
+          "Fish",
+          "Gluten",
+          "Onion",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 200,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac8210c89b03e7af7df2976",
+        "name": "Furikake Spiced French Fries",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Sesame"
+        ],
+        "calories": 160,
+        "portion": "3 ounce"
+      },
+      {
+        "id": "6ac8211389b03e7af7df5bb5",
+        "name": "Ancient Grains",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Onion"
+        ],
+        "calories": 190,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac8210b89b03e7af7df1d3f",
+        "name": "Sushi Rice",
+        "station": "Chef Table Dinner",
+        "description": "Sushi Rice",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Sulphites"
+        ],
+        "calories": 10,
+        "portion": "1/2 cup"
+      },
+      {
+        "id": "6ac8211089b03e7af7df46e9",
+        "name": "Fried Wonton Strips",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Gluten",
+          "Wheat"
+        ],
+        "calories": 90,
+        "portion": "1 cup"
+      },
+      {
+        "id": "6ac8210c89b03e7af7df271e",
+        "name": "Hawaiian Garlic Noodles",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Celery",
+          "Egg",
+          "Fish",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "MSG",
+          "Mushroom",
+          "Mustard",
+          "Onion",
+          "Peanuts",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 680,
+        "portion": "6 oz portion"
+      },
+      {
+        "id": "6ac8211289b03e7af7df577e",
+        "name": "Shrimp Salad",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Celery",
+          "Egg",
+          "Garlic",
+          "Mustard",
+          "Onion",
+          "Shellfish - Crustacean (Shrimp)",
+          "Shellfish - Crustacean",
+          "Sulphites"
+        ],
+        "calories": 240,
+        "portion": "5 oz portion"
+      },
+      {
+        "id": "6ac8211089b03e7af7df4823",
+        "name": "Spicy Ginger Pickled Red Onion",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Garlic",
+          "Mustard",
+          "Onion",
+          "Sulphites"
+        ],
+        "calories": 20,
+        "portion": "1 ounce"
+      },
+      {
+        "id": "6ac8211289b03e7af7df57ce",
+        "name": "Citrus Scallop Ceviche",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Onion",
+          "Sesame",
+          "Shellfish - Mollusk",
+          "Sulphites"
+        ],
+        "calories": 100,
+        "portion": "5 oz portion"
+      },
+      {
+        "id": "6ac8211289b03e7af7df5274",
+        "name": "Sliced Avocado",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 60,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac8210c89b03e7af7df2851",
+        "name": "Sesame Green Beans",
+        "station": "Chef Table Dinner",
+        "description": "Crunchy green beans with toasted sesame seeds.",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Sesame",
+          "Soy"
+        ],
+        "calories": 80,
+        "portion": "3/4 cup"
+      },
+      {
+        "id": "6ac8211289b03e7af7df57a7",
+        "name": "Watermelon Poke",
+        "station": "Chef Table Dinner",
+        "description": "",
+        "diet_tags": [],
+        "allergens": [
+          "Alcohol",
+          "Egg",
+          "Fish",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Onion",
+          "Peanuts",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 150,
+        "portion": "5 oz portion"
+      },
+      {
+        "id": "6ac8210c89b03e7af7df28e9",
+        "name": "Chili Aioli",
+        "station": "Pizza",
+        "description": "Mayonniase blended with Korean chili paste, sriracha & Chili crispo",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Celery",
+          "Egg",
+          "Garlic",
+          "Gluten",
+          "Mushroom",
+          "Mustard",
+          "Onion",
+          "Soy",
+          "Wheat"
+        ],
+        "calories": 180,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac8211089b03e7af7df45ab",
+        "name": "Wakame Seaweed Salad",
+        "station": "Pizza",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Gluten",
+          "Mushroom",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Wheat"
+        ],
+        "calories": 15,
+        "portion": "1/4 cup"
+      },
+      {
+        "id": "6ac8211189b03e7af7df4883",
+        "name": "Chili Mango",
+        "station": "Pizza",
+        "description": "",
+        "diet_tags": [
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Garlic",
+          "Sulphites"
+        ],
+        "calories": 35,
+        "portion": "2 oz portion"
+      },
+      {
+        "id": "6ac8211089b03e7af7df47bc",
+        "name": "Grilled Pineapple",
+        "station": "Gates and Grains",
+        "description": "Agave, Lime & Brown Sugar Glazed Pineapple Slices",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 150,
+        "portion": "2 slice"
+      },
+      {
+        "id": "6ac8211789b03e7af7df87b0",
+        "name": "Huli Huli Marinade",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Gluten",
+          "Mushroom",
+          "Mustard",
+          "Onion",
+          "Orange",
+          "Soy",
+          "Sulphites",
+          "Tomato",
+          "Wheat"
+        ],
+        "calories": 30,
+        "portion": "1 floz"
+      },
+      {
+        "id": "6ac8211289b03e7af7df5753",
+        "name": "Tuna Poke",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Egg",
+          "Fish (Tuna)",
+          "Fish",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Onion",
+          "Peanuts",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 250,
+        "portion": "5 oz portion"
+      },
+      {
+        "id": "6ac8211289b03e7af7df5309",
+        "name": "Classic Spam Musubi",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Alcohol",
+          "Egg",
+          "Fish",
+          "Garlic",
+          "Gluten",
+          "Milk",
+          "Onion",
+          "Peanuts",
+          "Pork",
+          "Sesame",
+          "Soy",
+          "Sulphites",
+          "Tree Nuts",
+          "Wheat"
+        ],
+        "calories": 170,
+        "portion": "1 each"
+      },
+      {
+        "id": "6ac8211089b03e7af7df467e",
+        "name": "Sliced Jalapeno Pepper",
+        "station": "Gates and Grains",
+        "description": "",
+        "diet_tags": [
+          "Vegan",
+          "Vegetarian"
+        ],
+        "allergens": [],
+        "calories": 0,
+        "portion": "1 tbsp"
+      },
+      {
+        "id": "6ac8211789b03e7af7df875f",
+        "name": "Garlic Shrimp",
+        "station": "Gates and Grains",
+        "description": "Lightly floured shrimp broiled in roasted garlic & herb compound butter",
+        "diet_tags": [
+          "Good Source of Protein"
+        ],
+        "allergens": [
+          "Celery",
+          "Garlic",
+          "Milk",
+          "Mustard",
+          "Shellfish - Crustacean (Shrimp)",
+          "Shellfish - Crustacean",
+          "Sulphites"
+        ],
+        "calories": 1110,
+        "portion": "6 each"
+      }
+    ]
+  }
+]
