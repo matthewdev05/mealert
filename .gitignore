@@ -1,3 +1,10 @@
 node_modules/
 .env
 .DS_Store
+raw/
+menus_*.json
+mealert.db
+preview_*.html
+mealert.log
+last_sent.txt
+node_modules/
