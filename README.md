@@ -64,12 +64,12 @@ fresh on each run.
 
 ## 🗺️ Roadmap
 
-- [ ] Fetch and print one day's menu for one dining hall
-- [ ] Support all dining halls
-- [ ] Match menu items against a hardcoded favorites list
-- [ ] Send email notifications
-- [ ] Run automatically every morning
-- [ ] Save daily menus to build a menu history
+- [x] Fetch and print one day's menu for one dining hall
+- [x] Support all dining halls
+- [x] Match menu items against a hardcoded favorites list
+- [x] Send email notifications
+- [x] Run automatically every morning
+- [x] Save daily menus to build a menu history
 - [ ] Sign-up form for users to choose favorites
 - [ ] Dietary filters (vegetarian, gluten-free, allergens)
 - [ ] Support other schools that use Dine on Campus
